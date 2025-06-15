@@ -1,0 +1,6930 @@
+fileFormatVersion: 2
+guid: 4c2f873e32bd7294bb40dc1f44493c33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7830631425071757411
+    second: Trombosit_0
+  - first:
+      213: -488441093297818697
+    second: Trombosit_1
+  - first:
+      213: 4117282495606958524
+    second: Trombosit_2
+  - first:
+      213: -964461492637740244
+    second: Trombosit_3
+  - first:
+      213: -591926297254920253
+    second: Trombosit_4
+  - first:
+      213: -8475970460134964910
+    second: Trombosit_5
+  - first:
+      213: 3277341353916423820
+    second: Trombosit_6
+  - first:
+      213: -4813675450184011660
+    second: Trombosit_7
+  - first:
+      213: -4912895853563225920
+    second: Trombosit_8
+  - first:
+      213: 9024607777322465699
+    second: Trombosit_9
+  - first:
+      213: -1063349654485905545
+    second: Trombosit_10
+  - first:
+      213: -6950602589653700725
+    second: Trombosit_11
+  - first:
+      213: 7642081500590750339
+    second: Trombosit_12
+  - first:
+      213: 6616266461960905232
+    second: Trombosit_13
+  - first:
+      213: 972630607732090131
+    second: Trombosit_14
+  - first:
+      213: -4497245296580402385
+    second: Trombosit_15
+  - first:
+      213: -989024951379527959
+    second: Trombosit_16
+  - first:
+      213: 1778947067257444315
+    second: Trombosit_17
+  - first:
+      213: -7749030589522134763
+    second: Trombosit_18
+  - first:
+      213: 6250839655012431658
+    second: Trombosit_19
+  - first:
+      213: 5997925942852692473
+    second: Trombosit_20
+  - first:
+      213: 7151993676066607128
+    second: Trombosit_21
+  - first:
+      213: -5281696188319731902
+    second: Trombosit_22
+  - first:
+      213: 1415733628190739915
+    second: Trombosit_23
+  - first:
+      213: -611378121477608004
+    second: Trombosit_24
+  - first:
+      213: 5728132171775128394
+    second: Trombosit_25
+  - first:
+      213: -1059845878810407313
+    second: Trombosit_26
+  - first:
+      213: -6173264963832145949
+    second: Trombosit_27
+  - first:
+      213: 7206828630077689368
+    second: Trombosit_28
+  - first:
+      213: 8076037023554312398
+    second: Trombosit_29
+  - first:
+      213: -5380870005734911229
+    second: Trombosit_30
+  - first:
+      213: 6856341927128853643
+    second: Trombosit_31
+  - first:
+      213: -5882657963741437939
+    second: Trombosit_32
+  - first:
+      213: -8777390318292612595
+    second: Trombosit_33
+  - first:
+      213: -7325756628172751457
+    second: Trombosit_34
+  - first:
+      213: -7264708834583217966
+    second: Trombosit_35
+  - first:
+      213: -2121216186058016738
+    second: Trombosit_36
+  - first:
+      213: 1799804734165158588
+    second: Trombosit_37
+  - first:
+      213: -5657008982990406737
+    second: Trombosit_38
+  - first:
+      213: 6042128256176017380
+    second: Trombosit_39
+  - first:
+      213: -7236336053508717085
+    second: Trombosit_40
+  - first:
+      213: -7262591892033950487
+    second: Trombosit_41
+  - first:
+      213: -5448043124043560446
+    second: Trombosit_42
+  - first:
+      213: -5761394612670971516
+    second: Trombosit_43
+  - first:
+      213: -4020764853779259602
+    second: Trombosit_44
+  - first:
+      213: 9165753857397090415
+    second: Trombosit_45
+  - first:
+      213: -2198001684755305998
+    second: Trombosit_46
+  - first:
+      213: -1343150397495303079
+    second: Trombosit_47
+  - first:
+      213: 5537179912309458127
+    second: Trombosit_48
+  - first:
+      213: -1186585639927917179
+    second: Trombosit_49
+  - first:
+      213: 2592178477565119188
+    second: Trombosit_50
+  - first:
+      213: -1590687404728955275
+    second: Trombosit_51
+  - first:
+      213: 6965036542546556103
+    second: Trombosit_52
+  - first:
+      213: -9163322677856356507
+    second: Trombosit_53
+  - first:
+      213: 6745222248135335186
+    second: Trombosit_54
+  - first:
+      213: 7009894352238126561
+    second: Trombosit_55
+  - first:
+      213: -7233413359274135052
+    second: Trombosit_56
+  - first:
+      213: -5491335567958977901
+    second: Trombosit_57
+  - first:
+      213: 4391516108323320995
+    second: Trombosit_58
+  - first:
+      213: -5066734826065767247
+    second: Trombosit_59
+  - first:
+      213: -5094913973988381705
+    second: Trombosit_60
+  - first:
+      213: -4025585903791910040
+    second: Trombosit_61
+  - first:
+      213: -6087024156853214438
+    second: Trombosit_62
+  - first:
+      213: 6082711542802396744
+    second: Trombosit_63
+  - first:
+      213: -2280767760748720287
+    second: Trombosit_64
+  - first:
+      213: 1701169936717730372
+    second: Trombosit_65
+  - first:
+      213: -2180048068543937660
+    second: Trombosit_66
+  - first:
+      213: 1185342617165319019
+    second: Trombosit_67
+  - first:
+      213: 1730837718898185950
+    second: Trombosit_68
+  - first:
+      213: 3247768443531163421
+    second: Trombosit_69
+  - first:
+      213: -972597819057167872
+    second: Trombosit_70
+  - first:
+      213: -5243341925842395156
+    second: Trombosit_71
+  - first:
+      213: -7585598661336937555
+    second: Trombosit_72
+  - first:
+      213: -4382791507502911399
+    second: Trombosit_73
+  - first:
+      213: 718602696166635572
+    second: Trombosit_74
+  - first:
+      213: -8890046440115373591
+    second: Trombosit_75
+  - first:
+      213: 702255684866976133
+    second: Trombosit_76
+  - first:
+      213: -8123094011137489863
+    second: Trombosit_77
+  - first:
+      213: 7620948002956894372
+    second: Trombosit_78
+  - first:
+      213: 6560018587850311185
+    second: Trombosit_79
+  - first:
+      213: 979573870414095407
+    second: Trombosit_80
+  - first:
+      213: -4972472574214547843
+    second: Trombosit_81
+  - first:
+      213: -4809874452041745265
+    second: Trombosit_82
+  - first:
+      213: -4276473531354749054
+    second: Trombosit_83
+  - first:
+      213: 4204944122039294560
+    second: Trombosit_84
+  - first:
+      213: 7597637400580027911
+    second: Trombosit_85
+  - first:
+      213: 4328674647565594323
+    second: Trombosit_86
+  - first:
+      213: 1334551108577986087
+    second: Trombosit_87
+  - first:
+      213: -6540695990846977760
+    second: Trombosit_88
+  - first:
+      213: -3661364825466078571
+    second: Trombosit_89
+  - first:
+      213: 7530978715561269999
+    second: Trombosit_90
+  - first:
+      213: -3002400933620708166
+    second: Trombosit_91
+  - first:
+      213: 4217048569764777041
+    second: Trombosit_92
+  - first:
+      213: -7399075507652133004
+    second: Trombosit_93
+  - first:
+      213: 5056692126571660848
+    second: Trombosit_94
+  - first:
+      213: 1475464990513931756
+    second: Trombosit_95
+  - first:
+      213: -5152138689972441629
+    second: Trombosit_96
+  - first:
+      213: 4433947331694764464
+    second: Trombosit_97
+  - first:
+      213: 4214996644100722647
+    second: Trombosit_98
+  - first:
+      213: -3962710030875049516
+    second: Trombosit_99
+  - first:
+      213: -8399302279517765788
+    second: Trombosit_100
+  - first:
+      213: 4727167433523617278
+    second: Trombosit_101
+  - first:
+      213: -164707566076082737
+    second: Trombosit_102
+  - first:
+      213: 2856739500691415931
+    second: Trombosit_103
+  - first:
+      213: -757994215024688616
+    second: Trombosit_104
+  - first:
+      213: -7040937454962174655
+    second: Trombosit_105
+  - first:
+      213: 8657980651759839350
+    second: Trombosit_106
+  - first:
+      213: -7581452765098626377
+    second: Trombosit_107
+  - first:
+      213: -4640838615678522095
+    second: Trombosit_108
+  - first:
+      213: 7972083532971590398
+    second: Trombosit_109
+  - first:
+      213: -96180278442121818
+    second: Trombosit_110
+  - first:
+      213: -4213062826404935934
+    second: Trombosit_111
+  - first:
+      213: 1163977487523319904
+    second: Trombosit_112
+  - first:
+      213: -1952108875410625908
+    second: Trombosit_113
+  - first:
+      213: 2088581783941692872
+    second: Trombosit_114
+  - first:
+      213: -2699299551029745296
+    second: Trombosit_115
+  - first:
+      213: 8774254545279095423
+    second: Trombosit_116
+  - first:
+      213: -3742247801667339714
+    second: Trombosit_117
+  - first:
+      213: 1355731319926568012
+    second: Trombosit_118
+  - first:
+      213: -7851294203539724656
+    second: Trombosit_119
+  - first:
+      213: -1166065320620226162
+    second: Trombosit_120
+  - first:
+      213: 2858438452409429842
+    second: Trombosit_121
+  - first:
+      213: -653661733683126304
+    second: Trombosit_122
+  - first:
+      213: -3567348634290918572
+    second: Trombosit_123
+  - first:
+      213: 4714753735548197313
+    second: Trombosit_124
+  - first:
+      213: 2671102069514285661
+    second: Trombosit_125
+  - first:
+      213: -2187394942971750529
+    second: Trombosit_126
+  - first:
+      213: -4462186041667728170
+    second: Trombosit_127
+  - first:
+      213: -3181516422446374715
+    second: Trombosit_128
+  - first:
+      213: -6317663137859601853
+    second: Trombosit_129
+  - first:
+      213: 8794374507452867564
+    second: Trombosit_130
+  - first:
+      213: -4688625325431566658
+    second: Trombosit_131
+  - first:
+      213: 480447438917314027
+    second: Trombosit_132
+  - first:
+      213: -5391347556639190356
+    second: Trombosit_133
+  - first:
+      213: -8287680025112881903
+    second: Trombosit_134
+  - first:
+      213: 6623218306394174680
+    second: Trombosit_135
+  - first:
+      213: -1326407513010995793
+    second: Trombosit_136
+  - first:
+      213: -1180687265443603723
+    second: Trombosit_137
+  - first:
+      213: 1562399766114952306
+    second: Trombosit_138
+  - first:
+      213: -3118767964972053399
+    second: Trombosit_139
+  - first:
+      213: 4001983364811367250
+    second: Trombosit_140
+  - first:
+      213: -3756198301738227719
+    second: Trombosit_141
+  - first:
+      213: -171230697104706704
+    second: Trombosit_142
+  - first:
+      213: -5219059108774257702
+    second: Trombosit_143
+  - first:
+      213: 6785383553543270059
+    second: Trombosit_144
+  - first:
+      213: 9172353359396798393
+    second: Trombosit_145
+  - first:
+      213: -5788234958172320078
+    second: Trombosit_146
+  - first:
+      213: 116463668114881682
+    second: Trombosit_147
+  - first:
+      213: -8232313264370740045
+    second: Trombosit_148
+  - first:
+      213: 97915956201649499
+    second: Trombosit_149
+  - first:
+      213: -67580683793246118
+    second: Trombosit_150
+  - first:
+      213: 8814429609390309350
+    second: Trombosit_151
+  - first:
+      213: 4341714692172672542
+    second: Trombosit_152
+  - first:
+      213: -2484742158315546919
+    second: Trombosit_153
+  - first:
+      213: -5491313595545758919
+    second: Trombosit_154
+  - first:
+      213: -4450065966498289464
+    second: Trombosit_155
+  - first:
+      213: 4479033603130584508
+    second: Trombosit_156
+  - first:
+      213: 2070530494188524184
+    second: Trombosit_157
+  - first:
+      213: 6574992339136066010
+    second: Trombosit_158
+  - first:
+      213: -162573802587995869
+    second: Trombosit_159
+  - first:
+      213: -2637958821815899243
+    second: Trombosit_160
+  - first:
+      213: -8171949709225459612
+    second: Trombosit_161
+  - first:
+      213: 1631869544479454310
+    second: Trombosit_162
+  - first:
+      213: 8155567295999712189
+    second: Trombosit_163
+  - first:
+      213: -1717279295131736844
+    second: Trombosit_164
+  - first:
+      213: -7508937083539627469
+    second: Trombosit_165
+  - first:
+      213: 3759253975900792821
+    second: Trombosit_166
+  - first:
+      213: -5229238718470403726
+    second: Trombosit_167
+  - first:
+      213: -4929149678659808852
+    second: Trombosit_168
+  - first:
+      213: -9061270714082242398
+    second: Trombosit_169
+  - first:
+      213: -1530006321943474449
+    second: Trombosit_170
+  - first:
+      213: -4173961622053940966
+    second: Trombosit_171
+  - first:
+      213: -3800698245245683503
+    second: Trombosit_172
+  - first:
+      213: -8321497610189014446
+    second: Trombosit_173
+  - first:
+      213: 6499738226272043413
+    second: Trombosit_174
+  - first:
+      213: 8280625346402530473
+    second: Trombosit_175
+  - first:
+      213: -341253484347455745
+    second: Trombosit_176
+  - first:
+      213: -4163219763938541906
+    second: Trombosit_177
+  - first:
+      213: 3204001557618040784
+    second: Trombosit_178
+  - first:
+      213: -3614214716654540485
+    second: Trombosit_179
+  - first:
+      213: -8304850644582722004
+    second: Trombosit_180
+  - first:
+      213: 608527011403099783
+    second: Trombosit_181
+  - first:
+      213: 4748649493786043607
+    second: Trombosit_182
+  - first:
+      213: -1472383247644748822
+    second: Trombosit_183
+  - first:
+      213: 3326842147440353285
+    second: Trombosit_184
+  - first:
+      213: -5805222939104518880
+    second: Trombosit_185
+  - first:
+      213: -7820212924171668992
+    second: Trombosit_186
+  - first:
+      213: 3470621221847422933
+    second: Trombosit_187
+  - first:
+      213: 8594431576978560810
+    second: Trombosit_188
+  - first:
+      213: 3091900874656015158
+    second: Trombosit_189
+  - first:
+      213: -170886506959139200
+    second: Trombosit_190
+  - first:
+      213: -6158104367035542736
+    second: Trombosit_191
+  - first:
+      213: -3891553223596955945
+    second: Trombosit_192
+  - first:
+      213: -4522399877737779855
+    second: Trombosit_193
+  - first:
+      213: -1436363863824305950
+    second: Trombosit_194
+  - first:
+      213: 2609827224860037044
+    second: Trombosit_195
+  - first:
+      213: 7794850213456679476
+    second: Trombosit_196
+  - first:
+      213: -307465033931459332
+    second: Trombosit_197
+  - first:
+      213: 928684896547870454
+    second: Trombosit_198
+  - first:
+      213: 935103253845304025
+    second: Trombosit_199
+  - first:
+      213: -3404535220816069729
+    second: Trombosit_200
+  - first:
+      213: -1679156246818452255
+    second: Trombosit_201
+  - first:
+      213: -2079609359003649197
+    second: Trombosit_202
+  - first:
+      213: -5655563874948907970
+    second: Trombosit_203
+  - first:
+      213: 5799546412248607855
+    second: Trombosit_204
+  - first:
+      213: -3896701119451069483
+    second: Trombosit_205
+  - first:
+      213: 6669001721891516372
+    second: Trombosit_206
+  - first:
+      213: -4441046679946046329
+    second: Trombosit_207
+  - first:
+      213: -543124523042217865
+    second: Trombosit_208
+  - first:
+      213: -6968654466032148498
+    second: Trombosit_209
+  - first:
+      213: 7359718990239586625
+    second: Trombosit_210
+  - first:
+      213: 7747157847559399903
+    second: Trombosit_211
+  - first:
+      213: -8113105711089031963
+    second: Trombosit_212
+  - first:
+      213: 5132632344474221124
+    second: Trombosit_213
+  - first:
+      213: 1811018687770019248
+    second: Trombosit_214
+  - first:
+      213: -3902450930202307105
+    second: Trombosit_215
+  - first:
+      213: 2497249167266003964
+    second: Trombosit_216
+  - first:
+      213: 2400371902268930840
+    second: Trombosit_217
+  - first:
+      213: 280984678518201021
+    second: Trombosit_218
+  - first:
+      213: -6978540913297382738
+    second: Trombosit_219
+  - first:
+      213: -3341714935236012019
+    second: Trombosit_220
+  - first:
+      213: 5583630935024770593
+    second: Trombosit_221
+  - first:
+      213: -8255486014668284143
+    second: Trombosit_222
+  - first:
+      213: -2824466577308417199
+    second: Trombosit_223
+  - first:
+      213: -7724778176566809502
+    second: Trombosit_224
+  - first:
+      213: 2258940794255164043
+    second: Trombosit_225
+  - first:
+      213: -1843843940415631155
+    second: Trombosit_226
+  - first:
+      213: -8030770717914419651
+    second: Trombosit_227
+  - first:
+      213: 3232744342700773921
+    second: Trombosit_228
+  - first:
+      213: 1743617869479328290
+    second: Trombosit_229
+  - first:
+      213: 7182256146568898347
+    second: Trombosit_230
+  - first:
+      213: -5635477376063621640
+    second: Trombosit_231
+  - first:
+      213: 75389302624450189
+    second: Trombosit_232
+  - first:
+      213: 4975384172525888797
+    second: Trombosit_233
+  - first:
+      213: -460969556622880657
+    second: Trombosit_234
+  - first:
+      213: 291124887439457173
+    second: Trombosit_235
+  - first:
+      213: -1047561872328029683
+    second: Trombosit_236
+  - first:
+      213: 6486666477971083546
+    second: Trombosit_237
+  - first:
+      213: 1040788457297804360
+    second: Trombosit_238
+  - first:
+      213: -4678487587205716135
+    second: Trombosit_239
+  - first:
+      213: 5839364990657313425
+    second: Trombosit_240
+  - first:
+      213: 3295634267112692488
+    second: Trombosit_241
+  - first:
+      213: -5361540319465507805
+    second: Trombosit_242
+  - first:
+      213: 1427696551519167982
+    second: Trombosit_243
+  - first:
+      213: 1188286084290483408
+    second: Trombosit_244
+  - first:
+      213: -8328649900852083314
+    second: Trombosit_245
+  - first:
+      213: -7842835967707876413
+    second: Trombosit_246
+  - first:
+      213: -932781177613860300
+    second: Trombosit_247
+  - first:
+      213: -3949955076546667369
+    second: Trombosit_248
+  - first:
+      213: 8025387281570077031
+    second: Trombosit_249
+  - first:
+      213: 4416212117753812018
+    second: Trombosit_250
+  - first:
+      213: 4165309018234470137
+    second: Trombosit_251
+  - first:
+      213: -1021195695661990529
+    second: Trombosit_252
+  - first:
+      213: -2784816522540712030
+    second: Trombosit_253
+  - first:
+      213: 3150706493064564296
+    second: Trombosit_254
+  - first:
+      213: 530811830768582856
+    second: Trombosit_255
+  - first:
+      213: -4251514597992954424
+    second: Trombosit_256
+  - first:
+      213: 5629993119627681938
+    second: Trombosit_257
+  - first:
+      213: -2405799767815374655
+    second: Trombosit_258
+  - first:
+      213: -2732090345215321287
+    second: Trombosit_259
+  - first:
+      213: 828621051810093056
+    second: Trombosit_260
+  - first:
+      213: 2490435305822035228
+    second: Trombosit_261
+  - first:
+      213: -6106725369643170802
+    second: Trombosit_262
+  - first:
+      213: 3390566943740725907
+    second: Trombosit_263
+  - first:
+      213: -4510361215987302005
+    second: Trombosit_264
+  - first:
+      213: -3160124904216464680
+    second: Trombosit_265
+  - first:
+      213: 5741796261772646515
+    second: Trombosit_266
+  - first:
+      213: 7245434786387587819
+    second: Trombosit_267
+  - first:
+      213: -2890545002561517548
+    second: Trombosit_268
+  - first:
+      213: -9072632442734468288
+    second: Trombosit_269
+  - first:
+      213: -8516416891949201126
+    second: Trombosit_270
+  - first:
+      213: 5556243756931308691
+    second: Trombosit_271
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trombosit_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 10616
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368b96aeacdfbac60800000000000000
+      internalID: 7830631425071757411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_1
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 10616
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3b74cd965b839f0800000000000000
+      internalID: -488441093297818697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_2
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 10613
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9269e8d96832930800000000000000
+      internalID: 4117282495606958524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 10555
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23d8c3e16b8d92f0800000000000000
+      internalID: -964461492637740244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_4
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 10558
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf78e63b2e09c7f0800000000000000
+      internalID: -591926297254920253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_5
+      rect:
+        serializedVersion: 2
+        x: 3809
+        y: 10558
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25183fc26cd4f5a80800000000000000
+      internalID: -8475970460134964910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 10520
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ed2e7e8947b7d20800000000000000
+      internalID: 3277341353916423820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_7
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 10500
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47073c79ea3623db0800000000000000
+      internalID: -4813675450184011660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_8
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 10460
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8dfd53043e1dbb0800000000000000
+      internalID: -4912895853563225920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_9
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 10462
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9788485f8dd3d70800000000000000
+      internalID: 9024607777322465699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 10404
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f45548f193e31f0800000000000000
+      internalID: -1063349654485905545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 10404
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fe7c445cf7a8f90800000000000000
+      internalID: -6950602589653700725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_12
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 10404
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38abb43a2a02e0a60800000000000000
+      internalID: 7642081500590750339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_13
+      rect:
+        serializedVersion: 2
+        x: 3809
+        y: 10404
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012a28cea43b1db50800000000000000
+      internalID: 6616266461960905232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_14
+      rect:
+        serializedVersion: 2
+        x: 4330
+        y: 10423
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3152b8f626a7f7d00800000000000000
+      internalID: 972630607732090131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 10362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23678dea339691c0800000000000000
+      internalID: -4497245296580402385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_16
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 10348
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6760bfb074642f0800000000000000
+      internalID: -989024951379527959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_17
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 10346
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd75a12bee610b810800000000000000
+      internalID: 1778947067257444315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 10288
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519b5e52cb9e57490800000000000000
+      internalID: -7749030589522134763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_19
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 10309
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27f0f04c817fb650800000000000000
+      internalID: 6250839655012431658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_20
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 10304
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9a5dcddd9ec3350800000000000000
+      internalID: 5997925942852692473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_21
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 10307
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8105ac10b5cf04360800000000000000
+      internalID: 7151993676066607128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_22
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 10251
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24feaa3ec45a3b6b0800000000000000
+      internalID: -5281696188319731902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_23
+      rect:
+        serializedVersion: 2
+        x: 4330
+        y: 10269
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd42e4eb32b5a310800000000000000
+      internalID: 1415733628190739915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_24
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 10192
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbda1e576d2f387f0800000000000000
+      internalID: -611378121477608004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_25
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 10192
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43b42d7cd96e7f40800000000000000
+      internalID: 5728132171775128394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 10153
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e08dcd9cbaa41f0800000000000000
+      internalID: -1059845878810407313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_27
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 10134
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e79b660938245aa0800000000000000
+      internalID: -6173264963832145949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_28
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 10091
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e45e4a47cc30460800000000000000
+      internalID: 7206828630077689368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_29
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 10152
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec89bdd52e8d31070800000000000000
+      internalID: 8076037023554312398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_30
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 10153
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303dd952d3f4355b0800000000000000
+      internalID: -5380870005734911229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_31
+      rect:
+        serializedVersion: 2
+        x: 4330
+        y: 10114
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ce12108ae962f50800000000000000
+      internalID: 6856341927128853643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_32
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 10057
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00a118efb99c5ea0800000000000000
+      internalID: -5882657963741437939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_33
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 10037
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a47379202703680800000000000000
+      internalID: -8777390318292612595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_34
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 10057
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9dbcc2092fa55a90800000000000000
+      internalID: -7325756628172751457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_35
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 10037
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d876061ec19e2b90800000000000000
+      internalID: -7264708834583217966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 9999
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18f3321e1def82e0800000000000000
+      internalID: -2121216186058016738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_37
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 9995
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba0bf4bed03af810800000000000000
+      internalID: 1799804734165158588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_38
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 9994
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabb9a55d444e71b0800000000000000
+      internalID: -5657008982990406737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_39
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 9941
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efc8bce2a3f9d350800000000000000
+      internalID: 6042128256176017380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_40
+      rect:
+        serializedVersion: 2
+        x: 4330
+        y: 9960
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5c247f2be539b90800000000000000
+      internalID: -7236336053508717085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_41
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 9883
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec2fae2727163b90800000000000000
+      internalID: -7262591892033950487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_42
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 9868
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20acf56c4a9a464b0800000000000000
+      internalID: -5448043124043560446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_43
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 9853
+        width: 123
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481c5ecff1a6b00b0800000000000000
+      internalID: -5761394612670971516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_44
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 9853
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f9c1d1baf5338c0800000000000000
+      internalID: -4020764853779259602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_45
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 9881
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68e1d0329c433f70800000000000000
+      internalID: 9165753857397090415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_46
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 9883
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9237cfc112f71e0800000000000000
+      internalID: -2198001684755305998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_47
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 9902
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9542e5d64db2c5de0800000000000000
+      internalID: -1343150397495303079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_48
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 9853
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc442a20bc308dc40800000000000000
+      internalID: 5537179912309458127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_49
+      rect:
+        serializedVersion: 2
+        x: 6009
+        y: 9902
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5855484b5a6688fe0800000000000000
+      internalID: -1186585639927917179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_50
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 9844
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da8ea5679449f320800000000000000
+      internalID: 2592178477565119188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_51
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 9844
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e4174bb3ebce9e0800000000000000
+      internalID: -1590687404728955275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_52
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 9843
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c43a1645d7c8a060800000000000000
+      internalID: 6965036542546556103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_53
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 9838
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5673718e29655d080800000000000000
+      internalID: -9163322677856356507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_54
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 9855
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d1b2f95e7db9d50800000000000000
+      internalID: 6745222248135335186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_55
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 9854
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5ab2af5c5284160800000000000000
+      internalID: 7009894352238126561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_56
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 9854
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f176eebfd0cd9b90800000000000000
+      internalID: -7233413359274135052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_57
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 9854
+        width: 82
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3925651356bdac3b0800000000000000
+      internalID: -5491335567958977901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_58
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 9855
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4740e12acc1fc30800000000000000
+      internalID: 4391516108323320995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_59
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 9855
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4df3935875fa9b0800000000000000
+      internalID: -5066734826065767247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_60
+      rect:
+        serializedVersion: 2
+        x: 3717
+        y: 9854
+        width: 94
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbaf331cba3b49b0800000000000000
+      internalID: -5094913973988381705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_61
+      rect:
+        serializedVersion: 2
+        x: 5581
+        y: 9853
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863d9afe2fe3228c0800000000000000
+      internalID: -4025585903791910040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_62
+      rect:
+        serializedVersion: 2
+        x: 5701
+        y: 9855
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13ea8f97cb868ba0800000000000000
+      internalID: -6087024156853214438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_63
+      rect:
+        serializedVersion: 2
+        x: 5741
+        y: 9855
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846b7ebabe12a6450800000000000000
+      internalID: 6082711542802396744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_64
+      rect:
+        serializedVersion: 2
+        x: 5776
+        y: 9854
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fc86d3ec51950e0800000000000000
+      internalID: -2280767760748720287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_65
+      rect:
+        serializedVersion: 2
+        x: 5854
+        y: 9854
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44252a45b05cb9710800000000000000
+      internalID: 1701169936717730372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_66
+      rect:
+        serializedVersion: 2
+        x: 5934
+        y: 9855
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483892105d9eeb1e0800000000000000
+      internalID: -2180048068543937660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_67
+      rect:
+        serializedVersion: 2
+        x: 6029
+        y: 9863
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b454184de237010800000000000000
+      internalID: 1185342617165319019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_68
+      rect:
+        serializedVersion: 2
+        x: 6183
+        y: 9855
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed616c62cbb250810800000000000000
+      internalID: 1730837718898185950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_69
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 9855
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17f5652134621d20800000000000000
+      internalID: 3247768443531163421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_70
+      rect:
+        serializedVersion: 2
+        x: 6392
+        y: 9854
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00227c5cf63a082f0800000000000000
+      internalID: -972597819057167872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_71
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 9837
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef50428c48eb37b0800000000000000
+      internalID: -5243341925842395156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_72
+      rect:
+        serializedVersion: 2
+        x: 5524
+        y: 9839
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab455e253a8ab690800000000000000
+      internalID: -7585598661336937555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_73
+      rect:
+        serializedVersion: 2
+        x: 5545
+        y: 9853
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950b0be48523d23c0800000000000000
+      internalID: -4382791507502911399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_74
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 9822
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43876a7485df8f900800000000000000
+      internalID: 718602696166635572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_75
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 9690
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9723c3dd530a480800000000000000
+      internalID: -8890046440115373591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_76
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 9672
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589aefd13d9eeb900800000000000000
+      internalID: 702255684866976133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_77
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 812
+        width: 8910
+        height: 9029
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9340c0de809f44f80800000000000000
+      internalID: -8123094011137489863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_78
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 9593
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0e7f7c4db03c960800000000000000
+      internalID: 7620948002956894372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_79
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 9532
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11607c0362ed90b50800000000000000
+      internalID: 6560018587850311185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_80
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 9532
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f246941ce35289d00800000000000000
+      internalID: 979573870414095407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_81
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 9477
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76d19ef98a3efab0800000000000000
+      internalID: -4972472574214547843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_82
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 9439
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c33df6ba4ef3db0800000000000000
+      internalID: -4809874452041745265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_83
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 9381
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2876d302bf9e6a4c0800000000000000
+      internalID: -4276473531354749054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_84
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 9381
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ad4867666fa5a30800000000000000
+      internalID: 4204944122039294560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_85
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 9284
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7067bc936fa307960800000000000000
+      internalID: 7597637400580027911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_86
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 9227
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dee26c58aa821c30800000000000000
+      internalID: 4328674647565594323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_87
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 9227
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72605699927458210800000000000000
+      internalID: 1334551108577986087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_88
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 9169
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0298eb186a7ca35a0800000000000000
+      internalID: -6540695990846977760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_89
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 9130
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59afbf80718303dc0800000000000000
+      internalID: -3661364825466078571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_90
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 9130
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea9e00bd39638860800000000000000
+      internalID: 7530978715561269999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_91
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 9072
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc8c3e12445556d0800000000000000
+      internalID: -3002400933620708166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_92
+      rect:
+        serializedVersion: 2
+        x: 9889
+        y: 9033
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c0661d457f58a30800000000000000
+      internalID: 4217048569764777041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_93
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 8976
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ff91c1704315990800000000000000
+      internalID: -7399075507652133004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_94
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 8976
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03681d692bafc2640800000000000000
+      internalID: 5056692126571660848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_95
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8918
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5ab1e6797e97410800000000000000
+      internalID: 1475464990513931756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_96
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 8879
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed65ae982def78b0800000000000000
+      internalID: -5152138689972441629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_97
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 8821
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1257a2b9b888d30800000000000000
+      internalID: 4433947331694764464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_98
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 8760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df4615ad1dae7a30800000000000000
+      internalID: 4214996644100722647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_99
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 8763
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1c0d5e830a109c0800000000000000
+      internalID: -3962710030875049516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_100
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 8667
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ff634041faf6b80800000000000000
+      internalID: -8399302279517765788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_101
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 8624
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd58f43cb54a9140800000000000000
+      internalID: 4727167433523617278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_102
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 8609
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc547306757d6bdf0800000000000000
+      internalID: -164707566076082737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_103
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 8609
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73e982b07d25a720800000000000000
+      internalID: 2856739500691415931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_104
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 8416
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81207a707401b75f0800000000000000
+      internalID: -757994215024688616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_105
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 8283
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1459c3f60b0994e90800000000000000
+      internalID: -7040937454962174655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_106
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8242
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678a954e783572870800000000000000
+      internalID: 8657980651759839350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_107
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 8203
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2b4eed0e449c690800000000000000
+      internalID: -7581452765098626377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_108
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 8146
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11de0940edd689fb0800000000000000
+      internalID: -4640838615678522095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_109
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 8049
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2438e3cb782ae60800000000000000
+      internalID: 7972083532971590398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_110
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 8049
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a52f0ddb8c4aaef0800000000000000
+      internalID: -96180278442121818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_111
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 7991
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2070bbf5ea13885c0800000000000000
+      internalID: -4213062826404935934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_112
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 7895
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060116e9b57472010800000000000000
+      internalID: 1163977487523319904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_113
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 7895
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a234e0257b8e4e0800000000000000
+      internalID: -1952108875410625908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_114
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 7740
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd323411122cfc10800000000000000
+      internalID: 2088581783941692872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_115
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 7370
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079208e1c592a8ad0800000000000000
+      internalID: -2699299551029745296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_116
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 7316
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72973c550a64c970800000000000000
+      internalID: 8774254545279095423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_117
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 7277
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ab120a37dd01cc0800000000000000
+      internalID: -3742247801667339714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_118
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 7219
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c443817d37680d210800000000000000
+      internalID: 1355731319926568012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_119
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 7180
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0966ee215899a0390800000000000000
+      internalID: -7851294203539724656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_120
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 7219
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89878bd4cd41dfe0800000000000000
+      internalID: -1166065320620226162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_121
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 6968
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f6e28b0a63ba720800000000000000
+      internalID: 2858438452409429842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_122
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6910
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef1d80dd1abde6f0800000000000000
+      internalID: -653661733683126304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_123
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6756
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b6d17515b3e7ec0800000000000000
+      internalID: -3567348634290918572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_124
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 6756
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9dbcaea8b2e6140800000000000000
+      internalID: 4714753735548197313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_125
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 6640
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52b53c1e29a11520800000000000000
+      internalID: 2671102069514285661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_126
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 6659
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77dea083efc4a1e0800000000000000
+      internalID: -2187394942971750529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_127
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6601
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc40b0df612312c0800000000000000
+      internalID: -4462186041667728170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_128
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 6598
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c023019babf8d3d0800000000000000
+      internalID: -3181516422446374715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_129
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 6505
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a7c4939d62358a0800000000000000
+      internalID: -6317663137859601853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_130
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6466
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3aa7a1505eb0a70800000000000000
+      internalID: 8794374507452867564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_131
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 6447
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe40c0ab18aeeeb0800000000000000
+      internalID: -4688625325431566658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_132
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6293
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5a9e17664eaa600800000000000000
+      internalID: 480447438917314027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_133
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 6293
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2d9d936f51e25b0800000000000000
+      internalID: -5391347556639190356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_134
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 6293
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115db0b5dee3cfc80800000000000000
+      internalID: -8287680025112881903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_135
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 6235
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d43d7655f56aeb50800000000000000
+      internalID: 6623218306394174680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_136
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 6196
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadf19ff467a79de0800000000000000
+      internalID: -1326407513010995793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_137
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 6121
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa1868003b5d9fe0800000000000000
+      internalID: -1180687265443603723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_138
+      rect:
+        serializedVersion: 2
+        x: 9889
+        y: 6100
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2746f603f42cea510800000000000000
+      internalID: 1562399766114952306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_139
+      rect:
+        serializedVersion: 2
+        x: 9580
+        y: 6042
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c09fe4f09e7b4d0800000000000000
+      internalID: -3118767964972053399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_140
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 5984
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253aa98baa6e98730800000000000000
+      internalID: 4001983364811367250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_141
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5945
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7a7f6bb8d4fdbc0800000000000000
+      internalID: -3756198301738227719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_142
+      rect:
+        serializedVersion: 2
+        x: 9535
+        y: 5959
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0737e64969aaf9df0800000000000000
+      internalID: -171230697104706704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_143
+      rect:
+        serializedVersion: 2
+        x: 9550
+        y: 5893
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb5ebf646d2297b0800000000000000
+      internalID: -5219059108774257702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_144
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5829
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae69b534668a2e50800000000000000
+      internalID: 6785383553543270059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_145
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5829
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bff43d78ceba4f70800000000000000
+      internalID: 9172353359396798393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_146
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 5729
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be04a119fe0cafa0800000000000000
+      internalID: -5788234958172320078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_147
+      rect:
+        serializedVersion: 2
+        x: 9552
+        y: 5715
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cf93fc613cd9100800000000000000
+      internalID: 116463668114881682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_148
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 5675
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b41275e3b2f0cd80800000000000000
+      internalID: -8232313264370740045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_149
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 5578
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55fd3b1b0edb5100800000000000000
+      internalID: 97915956201649499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_150
+      rect:
+        serializedVersion: 2
+        x: 9552
+        y: 5578
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5853d4e9b7ef0ff0800000000000000
+      internalID: -67580683793246118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_151
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5540
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eff4656705235a70800000000000000
+      internalID: 8814429609390309350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_152
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 5520
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1eeb07528ed04c30800000000000000
+      internalID: 4341714692172672542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_153
+      rect:
+        serializedVersion: 2
+        x: 9551
+        y: 5480
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d61a27fb2c648dd0800000000000000
+      internalID: -2484742158315546919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_154
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 5482
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933d83b016feac3b0800000000000000
+      internalID: -5491313595545758919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_155
+      rect:
+        serializedVersion: 2
+        x: 9551
+        y: 5422
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c860d7b4903e32c0800000000000000
+      internalID: -4450065966498289464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_156
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5366
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbde2a3c459b82e30800000000000000
+      internalID: 4479033603130584508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_157
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5366
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89298baa3800cbc10800000000000000
+      internalID: 2070530494188524184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_158
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 5366
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1be1752b01f3b50800000000000000
+      internalID: 6574992339136066010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_159
+      rect:
+        serializedVersion: 2
+        x: 9551
+        y: 5314
+        width: 34
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32145f6ecfb6ebdf0800000000000000
+      internalID: -162573802587995869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_160
+      rect:
+        serializedVersion: 2
+        x: 9551
+        y: 5194
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b2e859d66146bd0800000000000000
+      internalID: -2637958821815899243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_161
+      rect:
+        serializedVersion: 2
+        x: 9552
+        y: 5250
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460824b4907679e80800000000000000
+      internalID: -8171949709225459612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_162
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 5212
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664f97664b095a610800000000000000
+      internalID: 1631869544479454310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_163
+      rect:
+        serializedVersion: 2
+        x: 9551
+        y: 5129
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb1bd3ee356e2170800000000000000
+      internalID: 8155567295999712189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_164
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5057
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f42a81649ffa28e0800000000000000
+      internalID: -1717279295131736844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_165
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 5034
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332ecdea185eac790800000000000000
+      internalID: -7508937083539627469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_166
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 4961
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7aa0ed29d8b2430800000000000000
+      internalID: 3759253975900792821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_167
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 4903
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2794adb57130e67b0800000000000000
+      internalID: -5229238718470403726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_168
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 4787
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca150c6ab74289bb0800000000000000
+      internalID: -4929149678659808852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_169
+      rect:
+        serializedVersion: 2
+        x: 9552
+        y: 4791
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a05a715b46ef3280800000000000000
+      internalID: -9061270714082242398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_170
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 4748
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee05744b5354cae0800000000000000
+      internalID: -1530006321943474449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_171
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 4748
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a119c53f40c1316c0800000000000000
+      internalID: -4173961622053940966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_172
+      rect:
+        serializedVersion: 2
+        x: 9550
+        y: 4736
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d83ea93515314bc0800000000000000
+      internalID: -3800698245245683503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_173
+      rect:
+        serializedVersion: 2
+        x: 9585
+        y: 4748
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25afb61430a148c80800000000000000
+      internalID: -8321497610189014446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_174
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 4634
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59109fdca75b33a50800000000000000
+      internalID: 6499738226272043413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_175
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 4652
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a43b6241e0bae270800000000000000
+      internalID: 8280625346402530473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_176
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 4576
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff60b1793cf934bf0800000000000000
+      internalID: -341253484347455745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_177
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 4594
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaebe80bea54936c0800000000000000
+      internalID: -4163219763938541906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_178
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 4594
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df1f9de076e67c20800000000000000
+      internalID: 3204001557618040784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_179
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4536
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3921d73ddab7ddc0800000000000000
+      internalID: -3614214716654540485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_180
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4440
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2619f8f65e3fbc80800000000000000
+      internalID: -8304850644582722004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_181
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 4422
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e69eeb71ce17800800000000000000
+      internalID: 608527011403099783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_182
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 4440
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4a4ff1e8796e140800000000000000
+      internalID: 4748649493786043607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_183
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 4343
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae316eebc3b019be0800000000000000
+      internalID: -1472383247644748822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_184
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 4343
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500eaf58e415b2e20800000000000000
+      internalID: 3326842147440353285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_185
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4227
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dd9b88e74bf6fa0800000000000000
+      internalID: -5805222939104518880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_186
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 4189
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00234da57c5097390800000000000000
+      internalID: -7820212924171668992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_187
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 4189
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7d526fc9f1a2030800000000000000
+      internalID: 3470621221847422933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_188
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4131
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a271538ebfd854770800000000000000
+      internalID: 8594431576978560810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_189
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 4131
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6336792c673a8ea20800000000000000
+      internalID: 3091900874656015158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_190
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 4034
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e0bc790a3e0adf0800000000000000
+      internalID: -170886506959139200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_191
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3976
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033901984b40a8aa0800000000000000
+      internalID: -6158104367035542736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_192
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3976
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d62af226fc6ef9c0800000000000000
+      internalID: -3891553223596955945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_193
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3880
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d6b2b95453d31c0800000000000000
+      internalID: -4522399877737779855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_194
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3880
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e07b801da2011ce0800000000000000
+      internalID: -1436363863824305950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_195
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3841
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf0de69808f73420800000000000000
+      internalID: 2609827224860037044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_196
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3807
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432967268fedc2c60800000000000000
+      internalID: 7794850213456679476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_197
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3725
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf479af3e2aabbbf0800000000000000
+      internalID: -307465033931459332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_198
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3725
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f691073ef953ec00800000000000000
+      internalID: 928684896547870454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_199
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 3667
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2e2c974772afc00800000000000000
+      internalID: 935103253845304025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_200
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3609
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bb3f13149a0c0d0800000000000000
+      internalID: -3404535220816069729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_201
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3571
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec02024a4072b8e0800000000000000
+      internalID: -1679156246818452255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_202
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3571
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b72056e4eb323e0800000000000000
+      internalID: -2079609359003649197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_203
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 3494
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c7325ce966381b0800000000000000
+      internalID: -5655563874948907970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_204
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 3513
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c28701cb02c7050800000000000000
+      internalID: 5799546412248607855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_205
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3453
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3804b3af22ce9c0800000000000000
+      internalID: -3896701119451069483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_206
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3417
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfefcf6bbd0d8c50800000000000000
+      internalID: 6669001721891516372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_207
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3416
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78453e2039b3e52c0800000000000000
+      internalID: -4441046679946046329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_208
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 3359
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770e347bf1f6678f0800000000000000
+      internalID: -543124523042217865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_209
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 3359
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefd6b54fad5a4f90800000000000000
+      internalID: -6968654466032148498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_210
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3204
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1495deb9d69f22660800000000000000
+      internalID: 7359718990239586625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_211
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3108
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd968a2240f638b60800000000000000
+      internalID: 7747157847559399903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_212
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3050
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e468514755786f80800000000000000
+      internalID: -8113105711089031963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_213
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2992
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44af0176ce5ca3740800000000000000
+      internalID: 5132632344474221124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_214
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2953
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5402eb6e7022910800000000000000
+      internalID: 1811018687770019248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_215
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2895
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd516e71e85b7d9c0800000000000000
+      internalID: -3902450930202307105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_216
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2799
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbb78af2e208a220800000000000000
+      internalID: 2497249167266003964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_217
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2760
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b71930785df4120800000000000000
+      internalID: 2400371902268930840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_218
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2741
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba976e831246e300800000000000000
+      internalID: 280984678518201021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_219
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2586
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea22164630e372f90800000000000000
+      internalID: -6978540913297382738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_220
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2583
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08d3a8b8f7df91d0800000000000000
+      internalID: -3341714935236012019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_221
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2586
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e980780ca0d7d40800000000000000
+      internalID: 5583630935024770593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_222
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2471
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fdd77853f9e6d80800000000000000
+      internalID: -8255486014668284143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_223
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2432
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1538193dc9a7dc8d0800000000000000
+      internalID: -2824466577308417199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_224
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2274
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cab011d231cc490800000000000000
+      internalID: -7724778176566809502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_225
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2178
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82c73a1fae595f10800000000000000
+      internalID: 2258940794255164043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_226
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2177
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0154e84b95966e0800000000000000
+      internalID: -1843843940415631155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_227
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2123
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e2a16b498fc8090800000000000000
+      internalID: -8030770717914419651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_228
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2065
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12255541ad30ddc20800000000000000
+      internalID: 3232744342700773921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_229
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1950
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ab656d633923810800000000000000
+      internalID: 1743617869479328290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_230
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1911
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27ea1e79ef7ca360800000000000000
+      internalID: 7182256146568898347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_231
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1872
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f53afb3f23cac1b0800000000000000
+      internalID: -5635477376063621640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_232
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1814
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d867bcadb26db0100800000000000000
+      internalID: 75389302624450189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_233
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1602
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15a1805b8d1c0540800000000000000
+      internalID: 4975384172525888797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_234
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1506
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60593d61ae4a99f0800000000000000
+      internalID: -460969556622880657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_235
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1351
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bba1dea884a0400800000000000000
+      internalID: 291124887439457173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_236
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1197
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a05aff6005671f0800000000000000
+      internalID: -1047561872328029683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_237
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1197
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1196eb3bc4450a50800000000000000
+      internalID: 6486666477971083546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_238
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 788
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cff8b669f917e00800000000000000
+      internalID: 1040788457297804360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_239
+      rect:
+        serializedVersion: 2
+        x: 7972
+        y: 808
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957678eb35ca21fb0800000000000000
+      internalID: -4678487587205716135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_240
+      rect:
+        serializedVersion: 2
+        x: 7987
+        y: 806
+        width: 79
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a3bfd4587990150800000000000000
+      internalID: 5839364990657313425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_241
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 774
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b5bd8a7e17cbd20800000000000000
+      internalID: 3295634267112692488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_242
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 772
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324f2517c7bf795b0800000000000000
+      internalID: -5361540319465507805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_243
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 791
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5a958037230d310800000000000000
+      internalID: 1427696551519167982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_244
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 733
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d49ca9d5e3ad7010800000000000000
+      internalID: 1188286084290483408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_245
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 730
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e858e11da01ba6c80800000000000000
+      internalID: -8328649900852083314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_246
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 674
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c37d119d36a82390800000000000000
+      internalID: -7842835967707876413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_247
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 637
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432c72706781e03f0800000000000000
+      internalID: -932781177613860300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_248
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 618
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c5faf19c0fe29c0800000000000000
+      internalID: -3949955076546667369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_249
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 618
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7691ce65637ef5f60800000000000000
+      internalID: 8025387281570077031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_250
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 579
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234dd73e589894d30800000000000000
+      internalID: 4416212117753812018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_251
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 520
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9feb89bbb762ec930800000000000000
+      internalID: 4165309018234470137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_252
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 502
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7db8e1ecebf3d1f0800000000000000
+      internalID: -1021195695661990529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_253
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 483
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af725990285a59d0800000000000000
+      internalID: -2784816522540712030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_254
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 407
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e41aebcde89bb20800000000000000
+      internalID: 3150706493064564296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_255
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 425
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c049873c82dd5700800000000000000
+      internalID: 530811830768582856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_256
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 421
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c50e35aff59ff4c0800000000000000
+      internalID: -4251514597992954424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_257
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 425
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2902d4fc9e0c12e40800000000000000
+      internalID: 5629993119627681938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_258
+      rect:
+        serializedVersion: 2
+        x: 3404
+        y: 425
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8b5ae8bd1ec9ed0800000000000000
+      internalID: -2405799767815374655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_259
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 367
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b9a276e4aa51ad0800000000000000
+      internalID: -2732090345215321287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_260
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 365
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0081d86d47adf7b00800000000000000
+      internalID: 828621051810093056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_261
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 386
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d1d9b37bdcf8220800000000000000
+      internalID: 2490435305822035228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_262
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 347
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e048d8191ad804ba0800000000000000
+      internalID: -6106725369643170802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_263
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 270
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a09dcdba6bd0f20800000000000000
+      internalID: 3390566943740725907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_264
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 269
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81c068fe5af761c0800000000000000
+      internalID: -4510361215987302005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_265
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 232
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2ff46842bf424d0800000000000000
+      internalID: -3160124904216464680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_266
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 211
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378df9b5745feaf40800000000000000
+      internalID: 5741796261772646515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_267
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 193
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2f3eddc84fc8460800000000000000
+      internalID: 7245434786387587819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_268
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 116
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4184a0b82a8b2e7d0800000000000000
+      internalID: -2890545002561517548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_269
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 114
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043a029bcd8871280800000000000000
+      internalID: -9072632442734468288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_270
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 116
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a194b3c65fb9fc980800000000000000
+      internalID: -8516416891949201126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trombosit_271
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 2
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c5f59324ebb1d40800000000000000
+      internalID: 5556243756931308691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
