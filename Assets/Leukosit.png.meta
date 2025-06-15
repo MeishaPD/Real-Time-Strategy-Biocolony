@@ -1,0 +1,7655 @@
+fileFormatVersion: 2
+guid: c74cff9b04015ec4fa9af00f33004c2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7683047076986035120
+    second: Leukosit_0
+  - first:
+      213: -157688711666281187
+    second: Leukosit_1
+  - first:
+      213: 2078000306931625528
+    second: Leukosit_2
+  - first:
+      213: 4622605894336797211
+    second: Leukosit_3
+  - first:
+      213: 3347782971418307421
+    second: Leukosit_4
+  - first:
+      213: 1979253761556120858
+    second: Leukosit_5
+  - first:
+      213: -7274097833330505666
+    second: Leukosit_6
+  - first:
+      213: -4443363454259979536
+    second: Leukosit_7
+  - first:
+      213: 3520557802381674993
+    second: Leukosit_8
+  - first:
+      213: -1545532787307152162
+    second: Leukosit_9
+  - first:
+      213: -9013540276289034434
+    second: Leukosit_10
+  - first:
+      213: 6188236035292439179
+    second: Leukosit_11
+  - first:
+      213: -3853271082333437055
+    second: Leukosit_12
+  - first:
+      213: -7301342179807695769
+    second: Leukosit_13
+  - first:
+      213: -1152449033898057499
+    second: Leukosit_14
+  - first:
+      213: -3518454307506203173
+    second: Leukosit_15
+  - first:
+      213: 7680426045704191099
+    second: Leukosit_16
+  - first:
+      213: -3433248383194377842
+    second: Leukosit_17
+  - first:
+      213: 3546639736867538594
+    second: Leukosit_18
+  - first:
+      213: -6819919576194054332
+    second: Leukosit_19
+  - first:
+      213: 5911323308458397492
+    second: Leukosit_20
+  - first:
+      213: 4095337833677816015
+    second: Leukosit_21
+  - first:
+      213: -3706970122378095514
+    second: Leukosit_22
+  - first:
+      213: 5633111227947693460
+    second: Leukosit_23
+  - first:
+      213: -4000948669527442270
+    second: Leukosit_24
+  - first:
+      213: -2030483844576899316
+    second: Leukosit_25
+  - first:
+      213: -8034756161648715118
+    second: Leukosit_26
+  - first:
+      213: 4745468538894990637
+    second: Leukosit_27
+  - first:
+      213: -6367862183320438506
+    second: Leukosit_28
+  - first:
+      213: -1380732569470504258
+    second: Leukosit_29
+  - first:
+      213: 9001575222825560375
+    second: Leukosit_30
+  - first:
+      213: -6775965150218617141
+    second: Leukosit_31
+  - first:
+      213: -4133958285013678510
+    second: Leukosit_32
+  - first:
+      213: 7981645356862807496
+    second: Leukosit_33
+  - first:
+      213: 2371996569434530327
+    second: Leukosit_34
+  - first:
+      213: 7938733818898510143
+    second: Leukosit_35
+  - first:
+      213: 106637790442087457
+    second: Leukosit_36
+  - first:
+      213: 7968203490610586836
+    second: Leukosit_37
+  - first:
+      213: 5584055475725165361
+    second: Leukosit_38
+  - first:
+      213: 1863924553719857655
+    second: Leukosit_39
+  - first:
+      213: 1144794389251515354
+    second: Leukosit_40
+  - first:
+      213: -6317202130613067961
+    second: Leukosit_41
+  - first:
+      213: 1442222495063780362
+    second: Leukosit_42
+  - first:
+      213: -2689133812634996783
+    second: Leukosit_43
+  - first:
+      213: -2007926276104315697
+    second: Leukosit_44
+  - first:
+      213: -2310770643317645798
+    second: Leukosit_45
+  - first:
+      213: -2387485385283274335
+    second: Leukosit_46
+  - first:
+      213: 1018949894501776499
+    second: Leukosit_47
+  - first:
+      213: -2596443918391147743
+    second: Leukosit_48
+  - first:
+      213: -575000887367638995
+    second: Leukosit_49
+  - first:
+      213: 772356289473433815
+    second: Leukosit_50
+  - first:
+      213: -6553394887984034899
+    second: Leukosit_51
+  - first:
+      213: -6145157273696632864
+    second: Leukosit_52
+  - first:
+      213: 2938728663984454557
+    second: Leukosit_53
+  - first:
+      213: -8879808327003232445
+    second: Leukosit_54
+  - first:
+      213: 2883884880471902232
+    second: Leukosit_55
+  - first:
+      213: 3222946954645023139
+    second: Leukosit_56
+  - first:
+      213: 8682110328660521919
+    second: Leukosit_57
+  - first:
+      213: -7306092454305201227
+    second: Leukosit_58
+  - first:
+      213: 2141342495403385124
+    second: Leukosit_59
+  - first:
+      213: -3201705497028955269
+    second: Leukosit_60
+  - first:
+      213: 1397008371689254523
+    second: Leukosit_61
+  - first:
+      213: -3976162570761568551
+    second: Leukosit_62
+  - first:
+      213: 460036602867985939
+    second: Leukosit_63
+  - first:
+      213: 1256357425599870750
+    second: Leukosit_64
+  - first:
+      213: 8647044441919848054
+    second: Leukosit_65
+  - first:
+      213: -295429199783676194
+    second: Leukosit_66
+  - first:
+      213: 8640328266160080753
+    second: Leukosit_67
+  - first:
+      213: -3271327878342124054
+    second: Leukosit_68
+  - first:
+      213: -5107094480261794847
+    second: Leukosit_69
+  - first:
+      213: -8520163026382086060
+    second: Leukosit_70
+  - first:
+      213: -1968048435945484344
+    second: Leukosit_71
+  - first:
+      213: 168913363522410920
+    second: Leukosit_72
+  - first:
+      213: 4259655354818989301
+    second: Leukosit_73
+  - first:
+      213: 3299276863713804152
+    second: Leukosit_74
+  - first:
+      213: -7166174852980562149
+    second: Leukosit_75
+  - first:
+      213: 5323545787035573159
+    second: Leukosit_76
+  - first:
+      213: -3505206974942341035
+    second: Leukosit_77
+  - first:
+      213: 979693795217016152
+    second: Leukosit_78
+  - first:
+      213: 551560323505757754
+    second: Leukosit_79
+  - first:
+      213: 3905439754835246122
+    second: Leukosit_80
+  - first:
+      213: 2911667720782127070
+    second: Leukosit_81
+  - first:
+      213: 8508391299727121040
+    second: Leukosit_82
+  - first:
+      213: 8040115656539651413
+    second: Leukosit_83
+  - first:
+      213: 3191847075579040462
+    second: Leukosit_84
+  - first:
+      213: 4673653228519493297
+    second: Leukosit_85
+  - first:
+      213: 1860513681643519318
+    second: Leukosit_86
+  - first:
+      213: 6565665574426328647
+    second: Leukosit_87
+  - first:
+      213: -2643900463891660980
+    second: Leukosit_88
+  - first:
+      213: -4366055975889349863
+    second: Leukosit_89
+  - first:
+      213: -9179609657637149379
+    second: Leukosit_90
+  - first:
+      213: -2591241292574986715
+    second: Leukosit_91
+  - first:
+      213: -6685797024561453864
+    second: Leukosit_92
+  - first:
+      213: 3021620138377698237
+    second: Leukosit_93
+  - first:
+      213: -8992163767523942145
+    second: Leukosit_94
+  - first:
+      213: -6053081220802299926
+    second: Leukosit_95
+  - first:
+      213: -2911511293635793538
+    second: Leukosit_96
+  - first:
+      213: -9103103709653802485
+    second: Leukosit_97
+  - first:
+      213: -7335147710873757845
+    second: Leukosit_98
+  - first:
+      213: -3466991575371652164
+    second: Leukosit_99
+  - first:
+      213: 3022808779698391472
+    second: Leukosit_100
+  - first:
+      213: 439557883532577667
+    second: Leukosit_101
+  - first:
+      213: -6535898973042042405
+    second: Leukosit_102
+  - first:
+      213: -2072857696302745358
+    second: Leukosit_103
+  - first:
+      213: 4494139716101010684
+    second: Leukosit_104
+  - first:
+      213: -8998154594841456185
+    second: Leukosit_105
+  - first:
+      213: 5396474362975059648
+    second: Leukosit_106
+  - first:
+      213: 1968989004727590248
+    second: Leukosit_107
+  - first:
+      213: -3986401887555431020
+    second: Leukosit_108
+  - first:
+      213: 4568701114769256309
+    second: Leukosit_109
+  - first:
+      213: 133565275223724634
+    second: Leukosit_110
+  - first:
+      213: -6401054204277965000
+    second: Leukosit_111
+  - first:
+      213: 7477197377472004662
+    second: Leukosit_112
+  - first:
+      213: 6758200083253997021
+    second: Leukosit_113
+  - first:
+      213: 398463634320051916
+    second: Leukosit_114
+  - first:
+      213: -1415221848482032687
+    second: Leukosit_115
+  - first:
+      213: 7771800645294098615
+    second: Leukosit_116
+  - first:
+      213: -9049921319671692114
+    second: Leukosit_117
+  - first:
+      213: -389930719787511566
+    second: Leukosit_118
+  - first:
+      213: -3254041407398397435
+    second: Leukosit_119
+  - first:
+      213: 5944346795296041901
+    second: Leukosit_120
+  - first:
+      213: 1853667705101777123
+    second: Leukosit_121
+  - first:
+      213: 3326075128063332281
+    second: Leukosit_122
+  - first:
+      213: -4046811504352641583
+    second: Leukosit_123
+  - first:
+      213: -8164575324246834934
+    second: Leukosit_124
+  - first:
+      213: 9145935094325644047
+    second: Leukosit_125
+  - first:
+      213: 9056531092028438093
+    second: Leukosit_126
+  - first:
+      213: 3126003011104518016
+    second: Leukosit_127
+  - first:
+      213: 3345575792565145800
+    second: Leukosit_128
+  - first:
+      213: -4844055193150723649
+    second: Leukosit_129
+  - first:
+      213: 1253717811059735976
+    second: Leukosit_130
+  - first:
+      213: 833608875268900329
+    second: Leukosit_131
+  - first:
+      213: -235477664917362548
+    second: Leukosit_132
+  - first:
+      213: -3898263567393320991
+    second: Leukosit_133
+  - first:
+      213: -7707933000468198525
+    second: Leukosit_134
+  - first:
+      213: -3019882776200499402
+    second: Leukosit_135
+  - first:
+      213: -1816736902412295056
+    second: Leukosit_136
+  - first:
+      213: -2296588574269813983
+    second: Leukosit_137
+  - first:
+      213: -8895675117451589386
+    second: Leukosit_138
+  - first:
+      213: -807742666264953005
+    second: Leukosit_139
+  - first:
+      213: -6131347380080310777
+    second: Leukosit_140
+  - first:
+      213: -4030802308312885234
+    second: Leukosit_141
+  - first:
+      213: 4946927443447776689
+    second: Leukosit_142
+  - first:
+      213: 2466234621713992868
+    second: Leukosit_143
+  - first:
+      213: -834637119747014927
+    second: Leukosit_144
+  - first:
+      213: -7304656930789673412
+    second: Leukosit_145
+  - first:
+      213: 464470111589485119
+    second: Leukosit_146
+  - first:
+      213: -6373706914573989507
+    second: Leukosit_147
+  - first:
+      213: -9143997034788502565
+    second: Leukosit_148
+  - first:
+      213: 5971001895662951777
+    second: Leukosit_149
+  - first:
+      213: 658647113549925215
+    second: Leukosit_150
+  - first:
+      213: -5314954561559642142
+    second: Leukosit_151
+  - first:
+      213: 3010217954228485172
+    second: Leukosit_152
+  - first:
+      213: -8984584701151406436
+    second: Leukosit_153
+  - first:
+      213: 8214100931555167371
+    second: Leukosit_154
+  - first:
+      213: -7123957674664271383
+    second: Leukosit_155
+  - first:
+      213: 7123311139505521440
+    second: Leukosit_156
+  - first:
+      213: 1394404783447410109
+    second: Leukosit_157
+  - first:
+      213: 5624934402253917557
+    second: Leukosit_158
+  - first:
+      213: -508231879388095684
+    second: Leukosit_159
+  - first:
+      213: -8973731211883875004
+    second: Leukosit_160
+  - first:
+      213: 7406297324717111347
+    second: Leukosit_161
+  - first:
+      213: -2899740361025353958
+    second: Leukosit_162
+  - first:
+      213: -8187202233320967310
+    second: Leukosit_163
+  - first:
+      213: -6649706610566317615
+    second: Leukosit_164
+  - first:
+      213: 388104838631027620
+    second: Leukosit_165
+  - first:
+      213: -3684714006786278644
+    second: Leukosit_166
+  - first:
+      213: 2366807920288372707
+    second: Leukosit_167
+  - first:
+      213: 7767567429786069963
+    second: Leukosit_168
+  - first:
+      213: -5125180637628912734
+    second: Leukosit_169
+  - first:
+      213: 8832503307958287791
+    second: Leukosit_170
+  - first:
+      213: -7739916738128602804
+    second: Leukosit_171
+  - first:
+      213: 1157527376169876928
+    second: Leukosit_172
+  - first:
+      213: 6748785760118647295
+    second: Leukosit_173
+  - first:
+      213: -6585631933095791144
+    second: Leukosit_174
+  - first:
+      213: 8689900752795511432
+    second: Leukosit_175
+  - first:
+      213: 9010648295039376564
+    second: Leukosit_176
+  - first:
+      213: 6393793374289372771
+    second: Leukosit_177
+  - first:
+      213: 706334284049754812
+    second: Leukosit_178
+  - first:
+      213: 1680934863845598449
+    second: Leukosit_179
+  - first:
+      213: -8593188238840705452
+    second: Leukosit_180
+  - first:
+      213: -886484570536724281
+    second: Leukosit_181
+  - first:
+      213: -6301710441847327380
+    second: Leukosit_182
+  - first:
+      213: -6940598399625705681
+    second: Leukosit_183
+  - first:
+      213: -1426812818380281470
+    second: Leukosit_184
+  - first:
+      213: 2240866782051037107
+    second: Leukosit_185
+  - first:
+      213: 7865853507130793770
+    second: Leukosit_186
+  - first:
+      213: 5832699015836469817
+    second: Leukosit_187
+  - first:
+      213: 6727574557024510940
+    second: Leukosit_188
+  - first:
+      213: -1278767245377635873
+    second: Leukosit_189
+  - first:
+      213: -4427750399228961037
+    second: Leukosit_190
+  - first:
+      213: -8765817281855884887
+    second: Leukosit_191
+  - first:
+      213: -4802188269574937194
+    second: Leukosit_192
+  - first:
+      213: 4606139140250388554
+    second: Leukosit_193
+  - first:
+      213: -2987604505338007870
+    second: Leukosit_194
+  - first:
+      213: 6868076297861384392
+    second: Leukosit_195
+  - first:
+      213: -7065526820590602404
+    second: Leukosit_196
+  - first:
+      213: -7844101862287302235
+    second: Leukosit_197
+  - first:
+      213: 3158337794001631854
+    second: Leukosit_198
+  - first:
+      213: -1058236204999932928
+    second: Leukosit_199
+  - first:
+      213: 343770851451692063
+    second: Leukosit_200
+  - first:
+      213: -7007990464807833807
+    second: Leukosit_201
+  - first:
+      213: 1291937603435839406
+    second: Leukosit_202
+  - first:
+      213: 3026857344138218534
+    second: Leukosit_203
+  - first:
+      213: -4521842600286122899
+    second: Leukosit_204
+  - first:
+      213: -5716400075199574514
+    second: Leukosit_205
+  - first:
+      213: 3685295714703701786
+    second: Leukosit_206
+  - first:
+      213: 2286529513956339003
+    second: Leukosit_207
+  - first:
+      213: -753484529140346651
+    second: Leukosit_208
+  - first:
+      213: -7463898492641905508
+    second: Leukosit_209
+  - first:
+      213: -7230723175127336990
+    second: Leukosit_210
+  - first:
+      213: 1063631190129735032
+    second: Leukosit_211
+  - first:
+      213: 7169156548527118329
+    second: Leukosit_212
+  - first:
+      213: -1098182183610054938
+    second: Leukosit_213
+  - first:
+      213: -4714337238828470015
+    second: Leukosit_214
+  - first:
+      213: -226676332174568480
+    second: Leukosit_215
+  - first:
+      213: -6471916311724905493
+    second: Leukosit_216
+  - first:
+      213: -4778057643689970742
+    second: Leukosit_217
+  - first:
+      213: -6174505355076753498
+    second: Leukosit_218
+  - first:
+      213: 1457290812161830449
+    second: Leukosit_219
+  - first:
+      213: -1201187544137791893
+    second: Leukosit_220
+  - first:
+      213: -7780899987655987876
+    second: Leukosit_221
+  - first:
+      213: -8645300632869073669
+    second: Leukosit_222
+  - first:
+      213: 1985700308566351451
+    second: Leukosit_223
+  - first:
+      213: -2638191203389002888
+    second: Leukosit_224
+  - first:
+      213: 9042789696154827101
+    second: Leukosit_225
+  - first:
+      213: -7072817727988612357
+    second: Leukosit_226
+  - first:
+      213: -6936333259155651404
+    second: Leukosit_227
+  - first:
+      213: 3543693710371789858
+    second: Leukosit_228
+  - first:
+      213: -3029554687606993718
+    second: Leukosit_229
+  - first:
+      213: -4524113643060543024
+    second: Leukosit_230
+  - first:
+      213: -2008189963006369236
+    second: Leukosit_231
+  - first:
+      213: -2950685516082637928
+    second: Leukosit_232
+  - first:
+      213: -6089261963224001818
+    second: Leukosit_233
+  - first:
+      213: -9202174234829473180
+    second: Leukosit_234
+  - first:
+      213: 7460462168096798890
+    second: Leukosit_235
+  - first:
+      213: 5794841746612839931
+    second: Leukosit_236
+  - first:
+      213: -8137668231355442666
+    second: Leukosit_237
+  - first:
+      213: -2360241607286874076
+    second: Leukosit_238
+  - first:
+      213: 6883701013766243405
+    second: Leukosit_239
+  - first:
+      213: 2331542775493564113
+    second: Leukosit_240
+  - first:
+      213: 7112968135869110115
+    second: Leukosit_241
+  - first:
+      213: -6031775342537722847
+    second: Leukosit_242
+  - first:
+      213: 6337032110254834424
+    second: Leukosit_243
+  - first:
+      213: -4238294267701676315
+    second: Leukosit_244
+  - first:
+      213: -1981159069834581987
+    second: Leukosit_245
+  - first:
+      213: -6366061769890150392
+    second: Leukosit_246
+  - first:
+      213: 4979057868401166596
+    second: Leukosit_247
+  - first:
+      213: 3488079471203053064
+    second: Leukosit_248
+  - first:
+      213: 5608625947533806913
+    second: Leukosit_249
+  - first:
+      213: -7621905736618551154
+    second: Leukosit_250
+  - first:
+      213: 8369678590099587845
+    second: Leukosit_251
+  - first:
+      213: -2481710190069515050
+    second: Leukosit_252
+  - first:
+      213: 774455508946149812
+    second: Leukosit_253
+  - first:
+      213: -4638222878316130124
+    second: Leukosit_254
+  - first:
+      213: 7948588683644481418
+    second: Leukosit_255
+  - first:
+      213: 3976098592105253191
+    second: Leukosit_256
+  - first:
+      213: 782619872967003278
+    second: Leukosit_257
+  - first:
+      213: 5198282524021624667
+    second: Leukosit_258
+  - first:
+      213: 3221618601765538346
+    second: Leukosit_259
+  - first:
+      213: 6372186130853995704
+    second: Leukosit_260
+  - first:
+      213: -3792826392243028555
+    second: Leukosit_261
+  - first:
+      213: -6879023493022677310
+    second: Leukosit_262
+  - first:
+      213: -507525950741316617
+    second: Leukosit_263
+  - first:
+      213: 3253930665567470288
+    second: Leukosit_264
+  - first:
+      213: -4607804638972638205
+    second: Leukosit_265
+  - first:
+      213: -4189264842938468575
+    second: Leukosit_266
+  - first:
+      213: -5464134101434118453
+    second: Leukosit_267
+  - first:
+      213: -2186037180492567131
+    second: Leukosit_268
+  - first:
+      213: -3026940776387295860
+    second: Leukosit_269
+  - first:
+      213: -6001202622422838943
+    second: Leukosit_270
+  - first:
+      213: -3079130120942737220
+    second: Leukosit_271
+  - first:
+      213: 7839798834422552318
+    second: Leukosit_272
+  - first:
+      213: 6220503650965873949
+    second: Leukosit_273
+  - first:
+      213: -648265286416693289
+    second: Leukosit_274
+  - first:
+      213: 9030976788498432784
+    second: Leukosit_275
+  - first:
+      213: 8321661484974792702
+    second: Leukosit_276
+  - first:
+      213: -487643857757923613
+    second: Leukosit_277
+  - first:
+      213: -2481459781112893331
+    second: Leukosit_278
+  - first:
+      213: -983159103948082775
+    second: Leukosit_279
+  - first:
+      213: 3372123973529221906
+    second: Leukosit_280
+  - first:
+      213: -3397010186923970608
+    second: Leukosit_281
+  - first:
+      213: 8964091249316034364
+    second: Leukosit_282
+  - first:
+      213: 6795405256206605557
+    second: Leukosit_283
+  - first:
+      213: -6353374324371585673
+    second: Leukosit_284
+  - first:
+      213: 2837590668965326107
+    second: Leukosit_285
+  - first:
+      213: 5185330145768071827
+    second: Leukosit_286
+  - first:
+      213: 2925709686164271596
+    second: Leukosit_287
+  - first:
+      213: -8103247243747592379
+    second: Leukosit_288
+  - first:
+      213: 6582694860448860440
+    second: Leukosit_289
+  - first:
+      213: 2341566073402198899
+    second: Leukosit_290
+  - first:
+      213: 2580216106599037186
+    second: Leukosit_291
+  - first:
+      213: 3445078444858245720
+    second: Leukosit_292
+  - first:
+      213: -441834825032074848
+    second: Leukosit_293
+  - first:
+      213: 2158776151209206473
+    second: Leukosit_294
+  - first:
+      213: 6214454433724406374
+    second: Leukosit_295
+  - first:
+      213: 7116735342437841915
+    second: Leukosit_296
+  - first:
+      213: 3469628607982968014
+    second: Leukosit_297
+  - first:
+      213: -2755869309929696045
+    second: Leukosit_298
+  - first:
+      213: 2571661829219041525
+    second: Leukosit_299
+  - first:
+      213: -2764152501302729368
+    second: Leukosit_300
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Leukosit_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 10181
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb1b582c9aaf9a60800000000000000
+      internalID: 7683047076986035120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_1
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 10186
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15da04c3f6cfcdf0800000000000000
+      internalID: -157688711666281187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_2
+      rect:
+        serializedVersion: 2
+        x: 6348
+        y: 10183
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83eefc9f44a86dc10800000000000000
+      internalID: 2078000306931625528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_3
+      rect:
+        serializedVersion: 2
+        x: 6759
+        y: 10186
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a529cb19bc62040800000000000000
+      internalID: 4622605894336797211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_4
+      rect:
+        serializedVersion: 2
+        x: 8533
+        y: 10183
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b6d7c00e6b57e20800000000000000
+      internalID: 3347782971418307421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 10131
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1588e14fc8b77b10800000000000000
+      internalID: 1979253761556120858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_6
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 10112
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3885e67f863d0b90800000000000000
+      internalID: -7274097833330505666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_7
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 10112
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa91e4fa700652c0800000000000000
+      internalID: -4443363454259979536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 10056
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f980362ba88bd030800000000000000
+      internalID: 3520557802381674993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_9
+      rect:
+        serializedVersion: 2
+        x: 8870
+        y: 10075
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc76d75e1a2d8ae0800000000000000
+      internalID: -1545532787307152162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 10034
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37ad1fdfd879e280800000000000000
+      internalID: -9013540276289034434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_11
+      rect:
+        serializedVersion: 2
+        x: 6352
+        y: 10038
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82a0ed23e701e550800000000000000
+      internalID: 6188236035292439179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_12
+      rect:
+        serializedVersion: 2
+        x: 8074
+        y: 10019
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1830b3abd5e668ac0800000000000000
+      internalID: -3853271082333437055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_13
+      rect:
+        serializedVersion: 2
+        x: 8533
+        y: 10034
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c6cfcb8fb6caa90800000000000000
+      internalID: -7301342179807695769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9982
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0a3c8a5bda100f0800000000000000
+      internalID: -1152449033898057499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_15
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 9964
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd556aae270fb2fc0800000000000000
+      internalID: -3518454307506203173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 9885
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c3bd1cbca569a60800000000000000
+      internalID: 7680426045704191099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_17
+      rect:
+        serializedVersion: 2
+        x: 7037
+        y: 9871
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81d30e19c6aa50d0800000000000000
+      internalID: -3433248383194377842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_18
+      rect:
+        serializedVersion: 2
+        x: 8518
+        y: 9871
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6464ebc02383130800000000000000
+      internalID: 3546639736867538594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9816
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44788386747ca51a0800000000000000
+      internalID: -6819919576194054332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_20
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 9812
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f4621ca3d390250800000000000000
+      internalID: 5911323308458397492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_21
+      rect:
+        serializedVersion: 2
+        x: 8944
+        y: 9816
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0859bcf0095d830800000000000000
+      internalID: 4095337833677816015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_22
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 9736
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664daa660523e8cc0800000000000000
+      internalID: -3706970122378095514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_23
+      rect:
+        serializedVersion: 2
+        x: 7037
+        y: 9723
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495361af0d4dc2e40800000000000000
+      internalID: 5633111227947693460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_24
+      rect:
+        serializedVersion: 2
+        x: 8532
+        y: 9737
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acbe3c0266c978c0800000000000000
+      internalID: -4000948669527442270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_25
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 9694
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f03d983b542d3e0800000000000000
+      internalID: -2030483844576899316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_26
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 9696
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a1c0847dfce7090800000000000000
+      internalID: -8034756161648715118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_27
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 9695
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2db0a95e7a4bd140800000000000000
+      internalID: 4745468538894990637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_28
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 9695
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619ba88251fc0a7a0800000000000000
+      internalID: -6367862183320438506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_29
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 9696
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2f5e22b07a6dce0800000000000000
+      internalID: -1380732569470504258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_30
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 9696
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739a97709f40cec70800000000000000
+      internalID: 9001575222825560375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_31
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 9695
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcefac2b89fe6f1a0800000000000000
+      internalID: -6775965150218617141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_32
+      rect:
+        serializedVersion: 2
+        x: 3849
+        y: 9695
+        width: 80
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2560a79a7da31a6c0800000000000000
+      internalID: -4133958285013678510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_33
+      rect:
+        serializedVersion: 2
+        x: 3941
+        y: 9694
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd14fad92084ce60800000000000000
+      internalID: 7981645356862807496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_34
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 9694
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712279100560be020800000000000000
+      internalID: 2371996569434530327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_35
+      rect:
+        serializedVersion: 2
+        x: 4062
+        y: 9694
+        width: 79
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3173d9d85c0c2e60800000000000000
+      internalID: 7938733818898510143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_36
+      rect:
+        serializedVersion: 2
+        x: 4737
+        y: 9644
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124eee2618ada7100800000000000000
+      internalID: 106637790442087457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_37
+      rect:
+        serializedVersion: 2
+        x: 4797
+        y: 9551
+        width: 48
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d42fdb7bdeb49e60800000000000000
+      internalID: 7968203490610586836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_38
+      rect:
+        serializedVersion: 2
+        x: 4851
+        y: 9690
+        width: 74
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1336cac9edc8e7d40800000000000000
+      internalID: 5584055475725165361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_39
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 9696
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1c990918dfdd910800000000000000
+      internalID: 1863924553719857655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_40
+      rect:
+        serializedVersion: 2
+        x: 5034
+        y: 9695
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad362308e6023ef00800000000000000
+      internalID: 1144794389251515354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_41
+      rect:
+        serializedVersion: 2
+        x: 5142
+        y: 9695
+        width: 83
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f9776d12ac458a0800000000000000
+      internalID: -6317202130613067961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_42
+      rect:
+        serializedVersion: 2
+        x: 5236
+        y: 9695
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0caa51d7bdc30410800000000000000
+      internalID: 1442222495063780362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_43
+      rect:
+        serializedVersion: 2
+        x: 5286
+        y: 9695
+        width: 92
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df26688b074eaad0800000000000000
+      internalID: -2689133812634996783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_44
+      rect:
+        serializedVersion: 2
+        x: 5407
+        y: 9696
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc11a9b0b96224e0800000000000000
+      internalID: -2007926276104315697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_45
+      rect:
+        serializedVersion: 2
+        x: 5439
+        y: 9695
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e96a7c75e7eefd0800000000000000
+      internalID: -2310770643317645798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_46
+      rect:
+        serializedVersion: 2
+        x: 5481
+        y: 9695
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9f0c701b2fdded0800000000000000
+      internalID: -2387485385283274335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_47
+      rect:
+        serializedVersion: 2
+        x: 5534
+        y: 9681
+        width: 106
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c33b9c789042e00800000000000000
+      internalID: 1018949894501776499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_48
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 9668
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1238215430497fbd0800000000000000
+      internalID: -2596443918391147743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_49
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 660
+        width: 8060
+        height: 9026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20eaea4dbf2508f0800000000000000
+      internalID: -575000887367638995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_50
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 9668
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d05a1204f5f7ba00800000000000000
+      internalID: 772356289473433815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_51
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 9679
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabc9dc121aad05a0800000000000000
+      internalID: -6553394887984034899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_52
+      rect:
+        serializedVersion: 2
+        x: 4180
+        y: 9680
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef776c940408baa0800000000000000
+      internalID: -6145157273696632864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_53
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 9668
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b3d0c562678c820800000000000000
+      internalID: 2938728663984454557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_54
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 9631
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347aa63bf5594c480800000000000000
+      internalID: -8879808327003232445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_55
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 9631
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818c5a1f40e950820800000000000000
+      internalID: 2883884880471902232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_56
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 9590
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a92b89ed253abc20800000000000000
+      internalID: 3222946954645023139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_57
+      rect:
+        serializedVersion: 2
+        x: 8981
+        y: 9594
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb37f88185d0d7870800000000000000
+      internalID: 8682110328660521919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_58
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9538
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b30af44f9b8b9a90800000000000000
+      internalID: -7306092454305201227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_59
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 9482
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421a7fc77a397bd10800000000000000
+      internalID: 2141342495403385124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_60
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 9441
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b737c2650d14193d0800000000000000
+      internalID: -3201705497028955269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_61
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 9390
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ee8ce56bb236310800000000000000
+      internalID: 1397008371689254523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_62
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 9279
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de7d806535d1d8c0800000000000000
+      internalID: -3976162570761568551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_63
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 9293
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31eaf995ad0626600800000000000000
+      internalID: 460036602867985939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_64
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 9186
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17fdcf0c6a7f6110800000000000000
+      internalID: 1256357425599870750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_65
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 9144
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ef5ad1b19700870800000000000000
+      internalID: 8647044441919848054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_66
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 9075
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6bd9245bc66ebf0800000000000000
+      internalID: -295429199783676194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_67
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 9038
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1770d3797cc98e770800000000000000
+      internalID: 8640328266160080753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_68
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 8996
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedd59b70a8e992d0800000000000000
+      internalID: -3271327878342124054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_69
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 8946
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e333a5f0a4ff19b0800000000000000
+      internalID: -5107094480261794847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_70
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 8927
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45024188edc42c980800000000000000
+      internalID: -8520163026382086060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_71
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 8890
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfc4baef5610b4e0800000000000000
+      internalID: -1968048435945484344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_72
+      rect:
+        serializedVersion: 2
+        x: 8925
+        y: 8890
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9d1962fc9185200800000000000000
+      internalID: 168913363522410920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_73
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 8848
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc83910af55d1b30800000000000000
+      internalID: 4259655354818989301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_74
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 8742
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f7355c3d269cd20800000000000000
+      internalID: 3299276863713804152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_75
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 8742
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17a1c170f1ac8c90800000000000000
+      internalID: -7166174852980562149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_76
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 8700
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab58cd10b801e940800000000000000
+      internalID: 5323545787035573159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_77
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 8649
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5581752e3d00b5fc0800000000000000
+      internalID: -3505206974942341035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_78
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 8594
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855809ce052989d00800000000000000
+      internalID: 979693795217016152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_79
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 8552
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e92c2213987a700800000000000000
+      internalID: 551560323505757754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_80
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 8483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cb4aed3c8e23630800000000000000
+      internalID: 3905439754835246122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_81
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 8446
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf90398d52586820800000000000000
+      internalID: 2911667720782127070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_82
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 8403
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a5246cec0e31670800000000000000
+      internalID: 8508391299727121040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_83
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 8353
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d3a1d579a349f60800000000000000
+      internalID: 8040115656539651413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_84
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 8297
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2124d0108bb4c20800000000000000
+      internalID: 3191847075579040462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_85
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 8297
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be034969d62cd040800000000000000
+      internalID: 4673653228519493297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_86
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 8257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dbd16065fd1d910800000000000000
+      internalID: 1860513681643519318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_87
+      rect:
+        serializedVersion: 2
+        x: 8814
+        y: 8242
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e31b5bd0eed1b50800000000000000
+      internalID: 6565665574426328647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_88
+      rect:
+        serializedVersion: 2
+        x: 8962
+        y: 8242
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f3f3c398afe4bd0800000000000000
+      internalID: -2643900463891660980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_89
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 8205
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913d4a7e837a863c0800000000000000
+      internalID: -4366055975889349863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_90
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 8149
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35eacbe6a97b9080800000000000000
+      internalID: -9179609657637149379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_91
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 8107
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e6ebcf5cf0a0cd0800000000000000
+      internalID: -2591241292574986715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_92
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 8035
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4a6ae67074733a0800000000000000
+      internalID: -6685797024561453864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_93
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 8053
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb5b22b183fee920800000000000000
+      internalID: 3021620138377698237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_94
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 8038
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0e89a22ba653380800000000000000
+      internalID: -8992163767523942145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_95
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 7959
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7bd7543b22ffba0800000000000000
+      internalID: -6053081220802299926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_96
+      rect:
+        serializedVersion: 2
+        x: 8981
+        y: 7983
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dec4f77eb3897d0800000000000000
+      internalID: -2911511293635793538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_97
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 7890
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b026b8808674ba180800000000000000
+      internalID: -9103103709653802485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_98
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 7811
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67995e2502543a90800000000000000
+      internalID: -7335147710873757845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_99
+      rect:
+        serializedVersion: 2
+        x: 8814
+        y: 7798
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb363b6f785c2efc0800000000000000
+      internalID: -3466991575371652164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_100
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 7742
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9cad1d19c23f920800000000000000
+      internalID: 3022808779698391472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_101
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 7705
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b8e22f09f991600800000000000000
+      internalID: 439557883532577667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_102
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 7663
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd91dff3382db45a0800000000000000
+      internalID: -6535898973042042405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_103
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 7614
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8b0fd58eabb33e0800000000000000
+      internalID: -2072857696302745358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_104
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 7575
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4fc25c2446e5e30800000000000000
+      internalID: 4494139716101010684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_105
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 7514
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c11d6cf112202380800000000000000
+      internalID: -8998154594841456185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_106
+      rect:
+        serializedVersion: 2
+        x: 8981
+        y: 7538
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce71a467d024ea40800000000000000
+      internalID: 5396474362975059648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_107
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 7409
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d10715111435b10800000000000000
+      internalID: 1968989004727590248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_108
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 7367
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495df48aa947da8c0800000000000000
+      internalID: -3986401887555431020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_109
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 7220
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fa0c63579476f30800000000000000
+      internalID: 4568701114769256309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_110
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 7149
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52990009e48ad100800000000000000
+      internalID: 133565275223724634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_111
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 7094
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fbdfd8d13ea27a0800000000000000
+      internalID: -6401054204277965000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_112
+      rect:
+        serializedVersion: 2
+        x: 8925
+        y: 7112
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63283bf166754c760800000000000000
+      internalID: 7477197377472004662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_113
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 7072
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddae535b23f9cd50800000000000000
+      internalID: 6758200083253997021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_114
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 7001
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccece837090a78500800000000000000
+      internalID: 398463634320051916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_115
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 7020
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d35bda1a3f1c5ce0800000000000000
+      internalID: -1415221848482032687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_116
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 7001
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b808e7928bfadb60800000000000000
+      internalID: 7771800645294098615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_117
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 6798
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea40cbf1288386280800000000000000
+      internalID: -9049921319671692114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_118
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 6816
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f09d088310b69af0800000000000000
+      internalID: -389930719787511566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_119
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 6776
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a3b93a49257d2d0800000000000000
+      internalID: -3254041407398397435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_120
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 6668
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab2a537aef8e7250800000000000000
+      internalID: 5944346795296041901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_121
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 6687
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e87436e4fc89b910800000000000000
+      internalID: 1853667705101777123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_122
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 6631
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf0a78e4b7982e20800000000000000
+      internalID: 3326075128063332281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_123
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 6590
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddb812b066d6d7c0800000000000000
+      internalID: -4046811504352641583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_124
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 6501
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a010958100a91be80800000000000000
+      internalID: -8164575324246834934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_125
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 6520
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b0f04d283ecee70800000000000000
+      internalID: 9145935094325644047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_126
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 6463
+        width: 36
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46b2ad6b034fad70800000000000000
+      internalID: 9056531092028438093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_127
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 6479
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fafa32d2bc16b20800000000000000
+      internalID: 3126003011104518016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_128
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 6355
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0ddfc257fdd6e20800000000000000
+      internalID: 3345575792565145800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_129
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 6299
+        width: 34
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb96ddb777576ccb0800000000000000
+      internalID: -4844055193150723649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_130
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 6372
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adbbc8e4b9166110800000000000000
+      internalID: 1253717811059735976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_131
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 6331
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5040cfad2919b00800000000000000
+      internalID: 833608875268900329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_132
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 6279
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88ef06bf4a6bbcf0800000000000000
+      internalID: -235477664917362548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_133
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 6262
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef8ca870f596e9c0800000000000000
+      internalID: -3898263567393320991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_134
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 5701
+        width: 27
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b059246cbe70590800000000000000
+      internalID: -7707933000468198525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_135
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 6220
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63faf357d983716d0800000000000000
+      internalID: -3019882776200499402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_136
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 6168
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0742f59a967a9c6e0800000000000000
+      internalID: -1816736902412295056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_137
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 6183
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b4d6b0cd0e020e0800000000000000
+      internalID: -2296588574269813983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_138
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 6113
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8440bac963c8480800000000000000
+      internalID: -8895675117451589386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_139
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 6114
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fb95b13525ac4f0800000000000000
+      internalID: -807742666264953005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_140
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 6035
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7068ac70b0419eaa0800000000000000
+      internalID: -6131347380080310777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_141
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 6054
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e089f2d18a6bf08c0800000000000000
+      internalID: -4030802308312885234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_142
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 5983
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b50654cc4407a440800000000000000
+      internalID: 4946927443447776689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_143
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 5968
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac48006253d93220800000000000000
+      internalID: 2466234621713992868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_144
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 5927
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1febf1136f5ca64f0800000000000000
+      internalID: -834637119747014927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_145
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 5906
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36bf222935a0aa90800000000000000
+      internalID: -7304656930789673412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_146
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 5890
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ac31a0b11227600800000000000000
+      internalID: 464470111589485119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_147
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 5855
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79cd5e945b0c87a0800000000000000
+      internalID: -6373706914573989507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_148
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 5816
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3c432d42ff91180800000000000000
+      internalID: -9143997034788502565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_149
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 5798
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d9c20a6924dd250800000000000000
+      internalID: 5971001895662951777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_150
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 5817
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bca736f0cf32900800000000000000
+      internalID: 658647113549925215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_151
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 5738
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef35e07cfc7d36b0800000000000000
+      internalID: -5314954561559642142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_152
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 5739
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cba42d74176c920800000000000000
+      internalID: 3010217954228485172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_153
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 5670
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96167111d7505380800000000000000
+      internalID: -8984584701151406436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_154
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 5168
+        width: 84
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c0d8ee6495ef170800000000000000
+      internalID: 8214100931555167371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_155
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 5631
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1e7be3d3e922d90800000000000000
+      internalID: -7123957674664271383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_156
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 5630
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0234fce8db51bd260800000000000000
+      internalID: 7123311139505521440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_157
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 5631
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db50d7e33cbe95310800000000000000
+      internalID: 1394404783447410109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_158
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 5591
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d08336908cf0e40800000000000000
+      internalID: 5624934402253917557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_159
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 5520
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b1b856cc562f8f0800000000000000
+      internalID: -508231879388095684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_160
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 5443
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44573d5f107e67380800000000000000
+      internalID: -8973731211883875004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_161
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 5448
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33870b43d2478c660800000000000000
+      internalID: 7406297324717111347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_162
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 5370
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a178830518d02c7d0800000000000000
+      internalID: -2899740361025353958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_163
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 5319
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2737e9a42f6316e80800000000000000
+      internalID: -8187202233320967310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_164
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 5335
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9b0a0c11f77b3a0800000000000000
+      internalID: -6649706610566317615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_165
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 5294
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a376326b43d26500800000000000000
+      internalID: 388104838631027620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_166
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 5242
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bf89e12244ddcc0800000000000000
+      internalID: -3684714006786278644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_167
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 5260
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e79e5c734798d020800000000000000
+      internalID: 2366807920288372707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_168
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 5186
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbea4d4c61fbcb60800000000000000
+      internalID: 7767567429786069963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_169
+      rect:
+        serializedVersion: 2
+        x: 8605
+        y: 5205
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab2b6c4d53bfd8b0800000000000000
+      internalID: -5125180637628912734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_170
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 5187
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadf05446fa539a70800000000000000
+      internalID: 8832503307958287791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_171
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 5145
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c499eb80cba469490800000000000000
+      internalID: -7739916738128602804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_172
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 5117
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd356a040d501010800000000000000
+      internalID: 1157527376169876928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_173
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4998
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9261964e088ad50800000000000000
+      internalID: 6748785760118647295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_174
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 4924
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d53b5626a22b94a0800000000000000
+      internalID: -6585631933095791144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_175
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 4891
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88aa6cf81bab89870800000000000000
+      internalID: 8689900752795511432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_176
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 4891
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc1dc542e04c0d70800000000000000
+      internalID: 9010648295039376564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_177
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4850
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366a3c9b2315bb850800000000000000
+      internalID: 6393793374289372771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_178
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 4854
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba277df9476dc900800000000000000
+      internalID: 706334284049754812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_179
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 4835
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4261a4a51e35710800000000000000
+      internalID: 1680934863845598449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_180
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4761
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ec5df43dcdeb880800000000000000
+      internalID: -8593188238840705452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_181
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 4781
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c83b4adaf292b3f0800000000000000
+      internalID: -886484570536724281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_182
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 4729
+        width: 18
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65f154bdb3db88a0800000000000000
+      internalID: -6301710441847327380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_183
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 4701
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f274aa5478a0eaf90800000000000000
+      internalID: -6940598399625705681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_184
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 4726
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289287f1d41f23ce0800000000000000
+      internalID: -1426812818380281470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_185
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 4665
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfef153778291f10800000000000000
+      internalID: 2240866782051037107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_186
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4557
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f9ac3f610292d60800000000000000
+      internalID: 7865853507130793770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_187
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 4578
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a04b81ad8e1f050800000000000000
+      internalID: 5832699015836469817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_188
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 4582
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3e6675a652d5d50800000000000000
+      internalID: 6727574557024510940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_189
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 4536
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd97cdc27f7e04ee0800000000000000
+      internalID: -1278767245377635873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_190
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 4499
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe1ddb98787d82c0800000000000000
+      internalID: -4427750399228961037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_191
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 4480
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1fffc10af895680800000000000000
+      internalID: -8765817281855884887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_192
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 4446
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695207f36333b5db0800000000000000
+      internalID: -4802188269574937194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_193
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 4443
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48c5a8c42b4cef30800000000000000
+      internalID: 4606139140250388554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_194
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 4428
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cea8f90885e986d0800000000000000
+      internalID: -2987604505338007870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_195
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4409
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8ce48110f405f50800000000000000
+      internalID: 6868076297861384392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_196
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4354
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57b3bb9ac432fd90800000000000000
+      internalID: -7065526820590602404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_197
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 4337
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1a2648ae6242390800000000000000
+      internalID: -7844101862287302235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_198
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 4352
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a78247d7ba4db20800000000000000
+      internalID: 3158337794001631854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_199
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 4332
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004858047c36051f0800000000000000
+      internalID: -1058236204999932928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_200
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 4297
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1469ec94c155c400800000000000000
+      internalID: 343770851451692063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_201
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 4070
+        width: 45
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fedcb5dcd9ebe90800000000000000
+      internalID: -7007990464807833807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_202
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 4256
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf33c4c762ede110800000000000000
+      internalID: 1291937603435839406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_203
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 4190
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c042fa7be810a20800000000000000
+      internalID: 3026857344138218534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_204
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 4146
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c87bfdc103f31c0800000000000000
+      internalID: -4521842600286122899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_205
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4109
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e86bb1b644ba0b0800000000000000
+      internalID: -5716400075199574514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_206
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4057
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17fe2f4decc42330800000000000000
+      internalID: 3685295714703701786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_207
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 4057
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d60d77a726bbf10800000000000000
+      internalID: 2286529513956339003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_208
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3960
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e056d810d51b85f0800000000000000
+      internalID: -753484529140346651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_209
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3813
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94718acdd7ea6890800000000000000
+      internalID: -7463898492641905508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_210
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3761
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7b95d059f47ab90800000000000000
+      internalID: -7230723175127336990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_211
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 3743
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87575bb9ee6c2ce00800000000000000
+      internalID: 1063631190129735032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_212
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 3706
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7df16a5e5fd7360800000000000000
+      internalID: 7169156548527118329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_213
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 3706
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e682475f1972c0f0800000000000000
+      internalID: -1098182183610054938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_214
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3665
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101bb38424f439eb0800000000000000
+      internalID: -4714337238828470015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_215
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3517
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e31fbda31faadcf0800000000000000
+      internalID: -226676332174568480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_216
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3428
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beba49777622f26a0800000000000000
+      internalID: -6471916311724905493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_217
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3368
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3f48763ede0bdb0800000000000000
+      internalID: -4778057643689970742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_218
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3317
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a727eee710cf4aa0800000000000000
+      internalID: -6174505355076753498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_219
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3261
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ea859c546593410800000000000000
+      internalID: 1457290812161830449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_220
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 3261
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b660b03fa46845fe0800000000000000
+      internalID: -1201187544137791893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_221
+      rect:
+        serializedVersion: 2
+        x: 9014
+        y: 3258
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d6ceaafa0b40490800000000000000
+      internalID: -7780899987655987876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_222
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3221
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc016111e8b50880800000000000000
+      internalID: -8645300632869073669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_223
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3152
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e1b72f8ef9e8b10800000000000000
+      internalID: 1985700308566351451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_224
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 3169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b20780413436bd0800000000000000
+      internalID: -2638191203389002888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_225
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3113
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59fed161517e7d70800000000000000
+      internalID: 9042789696154827101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_226
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 3113
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf24722ffbd48dd90800000000000000
+      internalID: -7072817727988612357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_227
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3073
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4cc4ca6a13dbf90800000000000000
+      internalID: -6936333259155651404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_228
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2965
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c1f7f77aabd2130800000000000000
+      internalID: 3543693710371789858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_229
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2924
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accc099101cd4f5d0800000000000000
+      internalID: -3029554687606993718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_230
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2776
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1c0e58c9e1731c0800000000000000
+      internalID: -4524113643060543024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_231
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2687
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2220855ed97124e0800000000000000
+      internalID: -2008189963006369236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_232
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2627
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8931102182f0d07d0800000000000000
+      internalID: -2950685516082637928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_233
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2479
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e25cb9b1889e7ba0800000000000000
+      internalID: -6089261963224001818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_234
+      rect:
+        serializedVersion: 2
+        x: 8981
+        y: 2502
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46abcb3e94f4b4080800000000000000
+      internalID: -9202174234829473180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_235
+      rect:
+        serializedVersion: 2
+        x: 8962
+        y: 2465
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa876ad80d2e88760800000000000000
+      internalID: 7460462168096798890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_236
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2409
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5667cbdd96b6050800000000000000
+      internalID: 5794841746612839931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_237
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2409
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ad31adbd1311f80800000000000000
+      internalID: -8137668231355442666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_238
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2372
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420a19563ccbe3fd0800000000000000
+      internalID: -2360241607286874076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_239
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2332
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d448881c991d78f50800000000000000
+      internalID: 6883701013766243405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_240
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2183
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d61cef1dcd4b5020800000000000000
+      internalID: 2331542775493564113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_241
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2132
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367962d55d656b260800000000000000
+      internalID: 7112968135869110115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_242
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2034
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124341f9844da4ca0800000000000000
+      internalID: -6031775342537722847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_243
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1965
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2cbf51129a1f750800000000000000
+      internalID: 6337032110254834424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_244
+      rect:
+        serializedVersion: 2
+        x: 9018
+        y: 1984
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e63118a1dd8e25c0800000000000000
+      internalID: -4238294267701676315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_245
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1886
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1867f692528184e0800000000000000
+      internalID: -1981159069834581987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_246
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1817
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808c0839c8437a7a0800000000000000
+      internalID: -6366061769890150392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_247
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1817
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4094a2a40ca291540800000000000000
+      internalID: 4979057868401166596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_248
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1724
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ee3656cc5286030800000000000000
+      internalID: 3488079471203053064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_249
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1738
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d8ac06597d5dd40800000000000000
+      internalID: 5608625947533806913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_250
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1687
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88d6597d1d893690800000000000000
+      internalID: -7621905736618551154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_251
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1632
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503041f4552172470800000000000000
+      internalID: 8369678590099587845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_252
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1591
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc70751bb13f8dd0800000000000000
+      internalID: -2481710190069515050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_253
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1521
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b16411ae2b6fba00800000000000000
+      internalID: 774455508946149812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_254
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1484
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b090e4ddd8b1afb0800000000000000
+      internalID: -4638222878316130124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_255
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1443
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fa15a5b4f0f4e60800000000000000
+      internalID: 7948588683644481418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_256
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1295
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7494d5e6a90fd2730800000000000000
+      internalID: 3976098592105253191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_257
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1146
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c0c52c0ac6cda00800000000000000
+      internalID: 782619872967003278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_258
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 997
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f0e66f962042840800000000000000
+      internalID: 5198282524021624667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_259
+      rect:
+        serializedVersion: 2
+        x: 8925
+        y: 891
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a8608ac0d75bc20800000000000000
+      internalID: 3221618601765538346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_260
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 849
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b42934568d8e6850800000000000000
+      internalID: 6372186130853995704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_261
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 703
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdb0a3dd7c2d5bc0800000000000000
+      internalID: -3792826392243028555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_262
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 651
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c601d8649cc880a0800000000000000
+      internalID: -6879023493022677310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_263
+      rect:
+        serializedVersion: 2
+        x: 5496
+        y: 647
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb75c736d7e4f8f0800000000000000
+      internalID: -507525950741316617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_264
+      rect:
+        serializedVersion: 2
+        x: 6182
+        y: 650
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d246e443b8482d20800000000000000
+      internalID: 3253930665567470288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_265
+      rect:
+        serializedVersion: 2
+        x: 7475
+        y: 666
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c83a3181acd00c0800000000000000
+      internalID: -4607804638972638205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_266
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 659
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127be9e22ddbcd5c0800000000000000
+      internalID: -4189264842938468575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_267
+      rect:
+        serializedVersion: 2
+        x: 4145
+        y: 628
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcecbe62cfe7b24b0800000000000000
+      internalID: -5464134101434118453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_268
+      rect:
+        serializedVersion: 2
+        x: 4389
+        y: 652
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ada1f634c2a9a1e0800000000000000
+      internalID: -2186037180492567131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_269
+      rect:
+        serializedVersion: 2
+        x: 4556
+        y: 651
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c854a4bb6652ef5d0800000000000000
+      internalID: -3026940776387295860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_270
+      rect:
+        serializedVersion: 2
+        x: 5426
+        y: 658
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1611859b20277bca0800000000000000
+      internalID: -6001202622422838943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_271
+      rect:
+        serializedVersion: 2
+        x: 5576
+        y: 658
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8a00c087bb445d0800000000000000
+      internalID: -3079130120942737220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_272
+      rect:
+        serializedVersion: 2
+        x: 6073
+        y: 658
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6174cb08f8ccc60800000000000000
+      internalID: 7839798834422552318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_273
+      rect:
+        serializedVersion: 2
+        x: 6722
+        y: 651
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1567d7ec1ba35650800000000000000
+      internalID: 6220503650965873949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_274
+      rect:
+        serializedVersion: 2
+        x: 6777
+        y: 651
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d78aea1826e007f0800000000000000
+      internalID: -648265286416693289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_275
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 632
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0134f3d7a89745d70800000000000000
+      internalID: 9030976788498432784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_276
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 595
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effd8f0d70b7c7370800000000000000
+      internalID: 8321661484974792702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_277
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 595
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e61079be7a8b39f0800000000000000
+      internalID: -487643857757923613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_278
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 595
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60f856f975109dd0800000000000000
+      internalID: -2481459781112893331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_279
+      rect:
+        serializedVersion: 2
+        x: 6352
+        y: 598
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1bb73010e1b52f0800000000000000
+      internalID: -983159103948082775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_280
+      rect:
+        serializedVersion: 2
+        x: 6796
+        y: 595
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bb9cc33e03cce20800000000000000
+      internalID: 3372123973529221906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_281
+      rect:
+        serializedVersion: 2
+        x: 7237
+        y: 591
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df630eab356bd0d0800000000000000
+      internalID: -3397010186923970608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_282
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 553
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c377ba95f79d66c70800000000000000
+      internalID: 8964091249316034364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_283
+      rect:
+        serializedVersion: 2
+        x: 6348
+        y: 554
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc5401b3112e4e50800000000000000
+      internalID: 6795405256206605557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_284
+      rect:
+        serializedVersion: 2
+        x: 6759
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7758ebea6b744d7a0800000000000000
+      internalID: -6353374324371585673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_285
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 558
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d24a1eda5216720800000000000000
+      internalID: 2837590668965326107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_286
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 484
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39261a56b4ef5f740800000000000000
+      internalID: 5185330145768071827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_287
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 405
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1bdbf55753a9820800000000000000
+      internalID: 2925709686164271596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_288
+      rect:
+        serializedVersion: 2
+        x: 6777
+        y: 391
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547f24d809b7b8f80800000000000000
+      internalID: -8103247243747592379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_289
+      rect:
+        serializedVersion: 2
+        x: 8518
+        y: 410
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81908d5591e6a5b50800000000000000
+      internalID: 6582694860448860440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_290
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 338
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b8e3700f9ee7020800000000000000
+      internalID: 2341566073402198899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_291
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209b39dd0e4cec320800000000000000
+      internalID: 2580216106599037186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_292
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 336
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8528121c7906fcf20800000000000000
+      internalID: 3445078444858245720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_293
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 299
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9f09c41994ed9f0800000000000000
+      internalID: -441834825032074848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_294
+      rect:
+        serializedVersion: 2
+        x: 5463
+        y: 299
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2e86ac87385fd10800000000000000
+      internalID: 2158776151209206473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_295
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 262
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a9ef2c16d2e3650800000000000000
+      internalID: 6214454433724406374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_296
+      rect:
+        serializedVersion: 2
+        x: 8981
+        y: 243
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbb97e7619b3c260800000000000000
+      internalID: 7116735342437841915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_297
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 151
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc9b5906d8962030800000000000000
+      internalID: 3469628607982968014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_298
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 110
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d45d3eb67f21c9d0800000000000000
+      internalID: -2755869309929696045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_299
+      rect:
+        serializedVersion: 2
+        x: 8520
+        y: 112
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f04805fec060b320800000000000000
+      internalID: 2571661829219041525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leukosit_300
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 39
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865e7d6f1f1c3a9d0800000000000000
+      internalID: -2764152501302729368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

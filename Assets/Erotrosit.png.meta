@@ -1,0 +1,2080 @@
+fileFormatVersion: 2
+guid: 14fc9af986ba13345a7e9c22ffb56f1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6468422812713302764
+    second: Erotrosit_0
+  - first:
+      213: 4035270273378107251
+    second: Erotrosit_1
+  - first:
+      213: 603676720418001749
+    second: Erotrosit_2
+  - first:
+      213: 4907533570280198045
+    second: Erotrosit_3
+  - first:
+      213: -3242186339903161881
+    second: Erotrosit_4
+  - first:
+      213: -8414710952183336768
+    second: Erotrosit_5
+  - first:
+      213: -1996293606235011820
+    second: Erotrosit_6
+  - first:
+      213: 6922248065702973137
+    second: Erotrosit_7
+  - first:
+      213: 4733870294160210
+    second: Erotrosit_8
+  - first:
+      213: -6648949230249377670
+    second: Erotrosit_9
+  - first:
+      213: 8740213741095655174
+    second: Erotrosit_10
+  - first:
+      213: -8275856628615665047
+    second: Erotrosit_11
+  - first:
+      213: -53863111678264825
+    second: Erotrosit_12
+  - first:
+      213: 1705602865409856000
+    second: Erotrosit_13
+  - first:
+      213: -786361486553848236
+    second: Erotrosit_14
+  - first:
+      213: -1885616886540947318
+    second: Erotrosit_15
+  - first:
+      213: 2516200087139127471
+    second: Erotrosit_16
+  - first:
+      213: -535457762148001568
+    second: Erotrosit_17
+  - first:
+      213: -8298137508872622366
+    second: Erotrosit_18
+  - first:
+      213: 8846281118970185775
+    second: Erotrosit_19
+  - first:
+      213: -6118178824748509021
+    second: Erotrosit_20
+  - first:
+      213: -1741935471278045851
+    second: Erotrosit_21
+  - first:
+      213: -7924334633964535112
+    second: Erotrosit_22
+  - first:
+      213: -8134187043533230680
+    second: Erotrosit_23
+  - first:
+      213: 6226199037098575631
+    second: Erotrosit_24
+  - first:
+      213: 8460359350455632606
+    second: Erotrosit_25
+  - first:
+      213: 1889871145830175364
+    second: Erotrosit_26
+  - first:
+      213: 6089297482634403162
+    second: Erotrosit_27
+  - first:
+      213: 6336936660241180109
+    second: Erotrosit_28
+  - first:
+      213: 1305763677608992927
+    second: Erotrosit_29
+  - first:
+      213: 6044230521709457492
+    second: Erotrosit_30
+  - first:
+      213: -464809041679528578
+    second: Erotrosit_31
+  - first:
+      213: 5132148473623728784
+    second: Erotrosit_32
+  - first:
+      213: -4753974301948177944
+    second: Erotrosit_33
+  - first:
+      213: -6318271843468604969
+    second: Erotrosit_34
+  - first:
+      213: -1570011338600402419
+    second: Erotrosit_35
+  - first:
+      213: -8542013863924110733
+    second: Erotrosit_36
+  - first:
+      213: 6999323392241389969
+    second: Erotrosit_37
+  - first:
+      213: -7948461509237934671
+    second: Erotrosit_38
+  - first:
+      213: -1850263921903939817
+    second: Erotrosit_39
+  - first:
+      213: 5946144053879654033
+    second: Erotrosit_40
+  - first:
+      213: -2679269846955938913
+    second: Erotrosit_41
+  - first:
+      213: 1586779933261381019
+    second: Erotrosit_42
+  - first:
+      213: -8100514226625261513
+    second: Erotrosit_43
+  - first:
+      213: -3592419556274444906
+    second: Erotrosit_44
+  - first:
+      213: -2295044065700880760
+    second: Erotrosit_45
+  - first:
+      213: 4432434056580431776
+    second: Erotrosit_46
+  - first:
+      213: 5880987283671389529
+    second: Erotrosit_47
+  - first:
+      213: 6884407709247461318
+    second: Erotrosit_48
+  - first:
+      213: 7606634098703192426
+    second: Erotrosit_49
+  - first:
+      213: 4971969527237748142
+    second: Erotrosit_50
+  - first:
+      213: 6970927936299559004
+    second: Erotrosit_51
+  - first:
+      213: 7614476734043562758
+    second: Erotrosit_52
+  - first:
+      213: 3037803666783467814
+    second: Erotrosit_53
+  - first:
+      213: -4449053502174898883
+    second: Erotrosit_54
+  - first:
+      213: 8966625037541584750
+    second: Erotrosit_55
+  - first:
+      213: -5990002338307386446
+    second: Erotrosit_56
+  - first:
+      213: 9041454972576480718
+    second: Erotrosit_57
+  - first:
+      213: -6174411809949139361
+    second: Erotrosit_58
+  - first:
+      213: 5622298430616483174
+    second: Erotrosit_59
+  - first:
+      213: 521964692558489486
+    second: Erotrosit_60
+  - first:
+      213: 2482111992128584618
+    second: Erotrosit_61
+  - first:
+      213: 70268272150794154
+    second: Erotrosit_62
+  - first:
+      213: -7541638795186873983
+    second: Erotrosit_63
+  - first:
+      213: -5173354792997971912
+    second: Erotrosit_64
+  - first:
+      213: -3087894421363209936
+    second: Erotrosit_65
+  - first:
+      213: 6695912443794347696
+    second: Erotrosit_66
+  - first:
+      213: -6834174286233761616
+    second: Erotrosit_67
+  - first:
+      213: 9129620177955437572
+    second: Erotrosit_68
+  - first:
+      213: 8906307321107037352
+    second: Erotrosit_69
+  - first:
+      213: -8821595429791379997
+    second: Erotrosit_70
+  - first:
+      213: 8646295610142242121
+    second: Erotrosit_71
+  - first:
+      213: 2361149342667630224
+    second: Erotrosit_72
+  - first:
+      213: -966603948064259423
+    second: Erotrosit_73
+  - first:
+      213: -2724384730816994692
+    second: Erotrosit_74
+  - first:
+      213: -8880680012215363477
+    second: Erotrosit_75
+  - first:
+      213: -4009541733194173318
+    second: Erotrosit_76
+  - first:
+      213: -4032167560852504507
+    second: Erotrosit_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Erotrosit_0
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 10247
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415c03719bb8b36a0800000000000000
+      internalID: -6468422812713302764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_1
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 10188
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f35611fe8200830800000000000000
+      internalID: 4035270273378107251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_2
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 10191
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55310bf57c0b06800800000000000000
+      internalID: 603676720418001749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_3
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 10154
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f0bdbe7cf0b1440800000000000000
+      internalID: 4907533570280198045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_4
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 10117
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9b272a3b07103d0800000000000000
+      internalID: -3242186339903161881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 10043
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0f587d8f0f83b80800000000000000
+      internalID: -8414710952183336768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_6
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 10040
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4158afcba8dbb44e0800000000000000
+      internalID: -1996293606235011820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_7
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 10006
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de4c5ba0f3c01060800000000000000
+      internalID: 6922248065702973137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_8
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 9951
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253db411e61d01000800000000000000
+      internalID: 4733870294160210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 9895
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70016917ef2ab3a0800000000000000
+      internalID: -6648949230249377670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_10
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 9895
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6079ef2071a7b4970800000000000000
+      internalID: 8740213741095655174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_11
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 9899
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a2d4f5e30462d80800000000000000
+      internalID: -8275856628615665047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_12
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 9895
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a7be909c3a04ff0800000000000000
+      internalID: -53863111678264825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_13
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 9862
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00294a8f4c48ba710800000000000000
+      internalID: 1705602865409856000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_14
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 9855
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456e8e0f4684615f0800000000000000
+      internalID: -786361486553848236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_15
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 9852
+        width: 199
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80bf3f9e61f4d5e0800000000000000
+      internalID: -1885616886540947318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_16
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 9868
+        width: 59
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa01cb9d5a65be220800000000000000
+      internalID: 2516200087139127471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_17
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 9867
+        width: 226
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e851f6900ca198f0800000000000000
+      internalID: -535457762148001568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_18
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 9866
+        width: 178
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee6d4ea6e717dc80800000000000000
+      internalID: -8298137508872622366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_19
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 9867
+        width: 130
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28867fdecd44ca70800000000000000
+      internalID: 8846281118970185775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_20
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 9866
+        width: 73
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a85c8e36ccd71ba0800000000000000
+      internalID: -6118178824748509021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_21
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 9867
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565c1d40be663d7e0800000000000000
+      internalID: -1741935471278045851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_22
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 9867
+        width: 82
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b20835a2ab170290800000000000000
+      internalID: -7924334633964535112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_23
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 9867
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aded9d0bff8d1f80800000000000000
+      internalID: -8134187043533230680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_24
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 9867
+        width: 139
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07c3235907e76650800000000000000
+      internalID: 6226199037098575631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_25
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 9868
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2001c110c396570800000000000000
+      internalID: 8460359350455632606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_26
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 9867
+        width: 75
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482d77e4bcb2a3a10800000000000000
+      internalID: 1889871145830175364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_27
+      rect:
+        serializedVersion: 2
+        x: 3955
+        y: 9867
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d9a184cc7818450800000000000000
+      internalID: 6089297482634403162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_28
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 9868
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc563d5615251f750800000000000000
+      internalID: 6336936660241180109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_29
+      rect:
+        serializedVersion: 2
+        x: 4030
+        y: 9867
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90ed7485210f1210800000000000000
+      internalID: 1305763677608992927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_30
+      rect:
+        serializedVersion: 2
+        x: 4102
+        y: 9867
+        width: 97
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450f013c2ab61e350800000000000000
+      internalID: 6044230521709457492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_31
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 9868
+        width: 142
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d4d46a3aaac89f0800000000000000
+      internalID: -464809041679528578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_32
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 9867
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092d7e078dd093740800000000000000
+      internalID: 5132148473623728784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_33
+      rect:
+        serializedVersion: 2
+        x: 4449
+        y: 9867
+        width: 72
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e11b0d5f8d760eb0800000000000000
+      internalID: -4753974301948177944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_34
+      rect:
+        serializedVersion: 2
+        x: 4534
+        y: 9866
+        width: 249
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d983b7eb3df058a0800000000000000
+      internalID: -6318271843468604969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_35
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 9867
+        width: 79
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02336d7103363ae0800000000000000
+      internalID: -1570011338600402419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_36
+      rect:
+        serializedVersion: 2
+        x: 4892
+        y: 9868
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a6756f5aba47980800000000000000
+      internalID: -8542013863924110733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_37
+      rect:
+        serializedVersion: 2
+        x: 4940
+        y: 9868
+        width: 95
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19151ae8a87922160800000000000000
+      internalID: 6999323392241389969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_38
+      rect:
+        serializedVersion: 2
+        x: 5103
+        y: 9851
+        width: 86
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5f10fbe5461b190800000000000000
+      internalID: -7948461509237934671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 851
+        width: 7857
+        height: 9004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fc13224ca8256e0800000000000000
+      internalID: -1850263921903939817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_40
+      rect:
+        serializedVersion: 2
+        x: 7857
+        y: 6433
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1964cc25382f48250800000000000000
+      internalID: 5946144053879654033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_41
+      rect:
+        serializedVersion: 2
+        x: 7857
+        y: 6248
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ba6c2054251dad0800000000000000
+      internalID: -2679269846955938913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_42
+      rect:
+        serializedVersion: 2
+        x: 7856
+        y: 5842
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d33c231ff550610800000000000000
+      internalID: 1586779933261381019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_43
+      rect:
+        serializedVersion: 2
+        x: 7857
+        y: 5803
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730d000ba31359f80800000000000000
+      internalID: -8100514226625261513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_44
+      rect:
+        serializedVersion: 2
+        x: 7856
+        y: 4655
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69568107279252ec0800000000000000
+      internalID: -3592419556274444906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_45
+      rect:
+        serializedVersion: 2
+        x: 7826
+        y: 4243
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ed708f49d5620e0800000000000000
+      internalID: -2295044065700880760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_46
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 840
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aff1d85a4b238d30800000000000000
+      internalID: 4432434056580431776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_47
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 826
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95592d396c67d9150800000000000000
+      internalID: 5880987283671389529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_48
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 831
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7d7ae16545a8f50800000000000000
+      internalID: 6884407709247461318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_49
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 827
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61d39d3961309960800000000000000
+      internalID: 7606634098703192426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_50
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 823
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5a21141fbfff440800000000000000
+      internalID: 4971969527237748142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_51
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 819
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c586bf54606bdb060800000000000000
+      internalID: 6970927936299559004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_52
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 804
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603a4231f3e0ca960800000000000000
+      internalID: 7614476734043562758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_53
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 785
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629f1080752782a20800000000000000
+      internalID: 3037803666783467814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_54
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 785
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3558207969c142c0800000000000000
+      internalID: -4449053502174898883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_55
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 748
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f2ac4e6f9df6c70800000000000000
+      internalID: 8966625037541584750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_56
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 767
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3dd651c9c3fdca0800000000000000
+      internalID: -5990002338307386446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_57
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 767
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd3c15d463b97d70800000000000000
+      internalID: 9041454972576480718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_58
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 711
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e310b1c25105aa0800000000000000
+      internalID: -6174411809949139361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_59
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 674
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665b12a62aa660e40800000000000000
+      internalID: 5622298430616483174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_60
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 619
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87ae355f146e3700800000000000000
+      internalID: 521964692558489486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_61
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 563
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabbf8fb4bb327220800000000000000
+      internalID: 2482111992128584618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_62
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 563
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf47880f94a9f000800000000000000
+      internalID: 70268272150794154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_63
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 526
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189d49c1977b65790800000000000000
+      internalID: -7541638795186873983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_64
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 452
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8389a42b93d8438b0800000000000000
+      internalID: -5173354792997971912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_65
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 471
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0394cb652689525d0800000000000000
+      internalID: -3087894421363209936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_66
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 415
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6da7324e8acec50800000000000000
+      internalID: 6695912443794347696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_67
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 412
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b88de712b22821a0800000000000000
+      internalID: -6834174286233761616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_68
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 415
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cb5495e2de2be70800000000000000
+      internalID: 9129620177955437572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_69
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 378
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acbb07225f899b70800000000000000
+      internalID: 8906307321107037352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_70
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 267
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed431702b5639580800000000000000
+      internalID: -8821595429791379997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_71
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 304
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9453c812c00ddf770800000000000000
+      internalID: 8646295610142242121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_72
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 267
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096e95731dc74c020800000000000000
+      internalID: 2361149342667630224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_73
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 267
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2c32d94dee592f0800000000000000
+      internalID: -966603948064259423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_74
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 230
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72a720958a013ad0800000000000000
+      internalID: -2724384730816994692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_75
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 174
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68ddfba49c71c480800000000000000
+      internalID: -8880680012215363477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_76
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 119
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a747bd0890f3b58c0800000000000000
+      internalID: -4009541733194173318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erotrosit_77
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 82
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540888c77fcda08c0800000000000000
+      internalID: -4032167560852504507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
