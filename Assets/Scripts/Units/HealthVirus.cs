@@ -8,7 +8,7 @@ public class HealthVirus : MonoBehaviour
 
     [SerializeField] private Image _healthBarFill;
     [SerializeField] private float _damageAmount = 10f;
-    [SerializeField] private string _enemyTag = "enemy"; // Ganti layer → tag
+    [SerializeField] private string _enemyTag = "enemy";
 
     private void Awake()
     {
