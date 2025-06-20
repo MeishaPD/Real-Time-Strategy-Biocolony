@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class GameManager : SingletonManager<GameManager>
 {
+    [SerializeField] private PointToClick m_PointToClickPrefab;
+
     public Unit ActiveUnit;
 
     private Vector2 m_InitialTouchPosition;
@@ -55,6 +57,8 @@ public class GameManager : SingletonManager<GameManager>
 
     void HandleClickOnGround(Vector2 worldPoint)
     {
+        Instantiate(m_PointToClickPrefab, worldPoint, Quaternion.identity);
+        
         if (HasActiveUnit)
         {
             ActiveUnit.MoveTo(worldPoint);
