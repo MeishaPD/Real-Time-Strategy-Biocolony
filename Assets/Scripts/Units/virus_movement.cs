@@ -25,11 +25,9 @@ public class virus_movement : MonoBehaviour
 
     void Start()
     {
-        // Set posisi target awal ke posisi virus
         targetPosition = transform.position;
         lastPosition = transform.position;
 
-        // Setup LineRenderer jika belum ada
         if (showTargetLine && lineRenderer == null)
         {
             SetupLineRenderer();
@@ -38,50 +36,22 @@ public class virus_movement : MonoBehaviour
 
     void Update()
     {
-        HandleMouseInput();
         MoveToTarget();
         UpdateVisualFeedback();
-    }
-
-    void HandleMouseInput()
-    {
-        // Deteksi klik mouse
-        if (Input.GetMouseButtonDown(0))
-        {
-            // Konversi posisi mouse ke world position
-            Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            mousePosition.z = transform.position.z; // Pertahankan Z position untuk 2D
-
-            // Instantiate(m_PointToClickPrefab, mousePosition, Quaternion.identity);
-
-            // Set target position dan mulai movement
-            SetTargetPosition(mousePosition);
-        }
-
-        // Jika continuous movement aktif, update target saat mouse ditekan
-        if (continuousMovement && Input.GetMouseButton(0))
-        {
-            Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            mousePosition.z = transform.position.z;
-            SetTargetPosition(mousePosition);
-        }
     }
 
     void MoveToTarget()
     {
         if (!isMoving) return;
 
-        // Hitung jarak ke target
         float distanceToTarget = Vector3.Distance(transform.position, targetPosition);
 
-        // Cek apakah sudah sampai di target
         if (stopOnReachTarget && distanceToTarget <= stopDistance)
         {
             isMoving = false;
             return;
         }
 
-        // Gerakkan virus ke target
         Vector3 direction = (targetPosition - transform.position).normalized;
         transform.position += direction * moveSpeed * Time.deltaTime;
 
@@ -96,7 +66,6 @@ public class virus_movement : MonoBehaviour
 
     void UpdateVisualFeedback()
     {
-        // Update line renderer untuk menunjukkan arah target
         if (showTargetLine && lineRenderer != null && isMoving)
         {
             lineRenderer.enabled = true;
@@ -117,7 +86,6 @@ public class virus_movement : MonoBehaviour
 
     void SetupLineRenderer()
     {
-        // Buat LineRenderer component
         lineRenderer = gameObject.AddComponent<LineRenderer>();
         lineRenderer.material = new Material(Shader.Find("Sprites/Default"));
         lineRenderer.startColor = lineColor;
@@ -126,11 +94,9 @@ public class virus_movement : MonoBehaviour
         lineRenderer.endWidth = 0.05f;
         lineRenderer.positionCount = 2;
         lineRenderer.useWorldSpace = true;
-        lineRenderer.sortingOrder = -1; // Agar muncul di belakang sprite
+        lineRenderer.sortingOrder = -1;
     }
 
-
-    // Method publik untuk kontrol eksternal
     public void SetMoveSpeed(float speed)
     {
         moveSpeed = speed;
@@ -161,16 +127,13 @@ public class virus_movement : MonoBehaviour
         return targetPosition;
     }
 
-    // Untuk debugging
     void OnDrawGizmos()
     {
-        // Gambar target position
         if (isMoving)
         {
             Gizmos.color = Color.red;
             Gizmos.DrawWireSphere(targetPosition, 0.2f);
 
-            // Gambar garis ke target
             Gizmos.color = Color.yellow;
             Gizmos.DrawLine(transform.position, targetPosition);
         }

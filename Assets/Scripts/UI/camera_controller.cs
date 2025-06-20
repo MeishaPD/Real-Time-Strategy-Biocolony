@@ -3,7 +3,7 @@ using UnityEngine;
 public class camera_controller : MonoBehaviour
 {
     [Header("Camera Movement Settings")]
-    public float panSpeed = 1f;  // coba mulai dengan nilai kecil dulu
+    public float panSpeed = 0.05f;
     public bool enablePanning = true;
 
     [Header("Camera Zoom Settings")]
@@ -20,7 +20,7 @@ public class camera_controller : MonoBehaviour
     public float maxY = 10f;
 
     private Camera cam;
-    private Vector3 dragOrigin;
+    private Vector3 lastMousePosition;
     private bool isDragging = false;
 
     void Start()
@@ -44,17 +44,22 @@ public class camera_controller : MonoBehaviour
 
         if (Input.GetMouseButtonDown(0))
         {
-            // Simpan posisi world saat mulai drag
-            dragOrigin = cam.ScreenToWorldPoint(Input.mousePosition);
+            lastMousePosition = Input.mousePosition;
             isDragging = true;
         }
 
         if (Input.GetMouseButton(0) && isDragging)
         {
-            Vector3 currentPosition = cam.ScreenToWorldPoint(Input.mousePosition);
-            Vector3 difference = dragOrigin - currentPosition;
+            Vector3 currentMousePosition = Input.mousePosition;
+            Vector3 mouseDelta = currentMousePosition - lastMousePosition;
 
-            Vector3 newPosition = transform.position + difference * panSpeed;
+            Vector3 worldDelta = cam.ScreenToWorldPoint(new Vector3(mouseDelta.x, mouseDelta.y, cam.nearClipPlane)) - 
+                                cam.ScreenToWorldPoint(Vector3.zero);
+
+            float zoomFactor = cam.orthographicSize / 5f;
+            Vector3 movement = -worldDelta * panSpeed * zoomFactor;
+
+            Vector3 newPosition = transform.position + movement;
 
             if (useBounds)
             {
@@ -65,8 +70,7 @@ public class camera_controller : MonoBehaviour
             newPosition.z = transform.position.z;
             transform.position = newPosition;
 
-            // Update dragOrigin tiap frame supaya kamera dan mouse world tetap sinkron
-            dragOrigin = cam.ScreenToWorldPoint(Input.mousePosition);
+            lastMousePosition = currentMousePosition;
         }
 
         if (Input.GetMouseButtonUp(0))
