@@ -621,7 +621,7 @@ GameObject:
   - component: {fileID: 61306807}
   - component: {fileID: 61306806}
   - component: {fileID: 61306805}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2083,7 +2083,7 @@ GameObject:
   - component: {fileID: 461309369}
   - component: {fileID: 461309368}
   - component: {fileID: 461309367}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3826,6 +3826,7 @@ GameObject:
   - component: {fileID: 922240723}
   - component: {fileID: 922240725}
   - component: {fileID: 922240724}
+  - component: {fileID: 922240726}
   m_Layer: 0
   m_Name: Ground
   m_TagString: Untagged
@@ -12838,6 +12839,26 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!114 &922240726
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 922240722}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddcfbbaadb76ed34484b51ac02882e3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  meatPrefab: {fileID: 7704733684375118113, guid: a9d9583bf95b9b2459d261b033f04f56, type: 3}
+  maxMeatOnMap: 5
+  spawnInterval: 2
+  spawnAreaMin: {x: -10, y: -10}
+  spawnAreaMax: {x: 10, y: 10}
+  obstacleLayer:
+    serializedVersion: 2
+    m_Bits: 0
 --- !u!1 &926541458
 GameObject:
   m_ObjectHideFlags: 0
@@ -14760,7 +14781,7 @@ GameObject:
   - component: {fileID: 1260476998}
   - component: {fileID: 1260476997}
   - component: {fileID: 1260476996}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15800,7 +15821,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.3692763, g: 1, b: 0, a: 1}
+  m_Color: {r: 1, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -15856,7 +15877,7 @@ GameObject:
   - component: {fileID: 1636857884}
   - component: {fileID: 1636857883}
   - component: {fileID: 1636857882}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16412,7 +16433,7 @@ GameObject:
   - component: {fileID: 1772976160}
   - component: {fileID: 1772976159}
   - component: {fileID: 1772976158}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17000,7 +17021,7 @@ GameObject:
   - component: {fileID: 1833978227}
   - component: {fileID: 1833978226}
   - component: {fileID: 1833978225}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Wall (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18668,7 +18689,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.3692763, g: 1, b: 0, a: 1}
+  m_Color: {r: 1, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
