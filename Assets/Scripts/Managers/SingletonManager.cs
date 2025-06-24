@@ -1,9 +1,6 @@
-
-
-
 using UnityEngine;
 
-public abstract class SingletonManager<T> : MonoBehaviour where T: MonoBehaviour
+public abstract class SingletonManager<T> : MonoBehaviour where T : MonoBehaviour
 {
     protected virtual void Awake()
     {

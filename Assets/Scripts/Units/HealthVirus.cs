@@ -36,6 +36,15 @@ public class HealthVirus : MonoBehaviour
         UpdateHealthBar();
     }
 
+    public void Heal(float amount)
+    {
+        _currentHealth += amount;
+        _currentHealth = Mathf.Clamp(_currentHealth, 0f, _maxHealth);
+        UpdateHealthBar();
+
+        Debug.Log($"Virus healed for {amount}. Current health: {_currentHealth}/{_maxHealth}");
+    }
+
     private void UpdateHealthBar()
     {
         if (_healthBarFill != null)
@@ -48,5 +57,25 @@ public class HealthVirus : MonoBehaviour
     {
         Debug.Log("Virus died.");
         Destroy(gameObject);
+    }
+
+    public float GetCurrentHealth()
+    {
+        return _currentHealth;
+    }
+
+    public float GetMaxHealth()
+    {
+        return _maxHealth;
+    }
+
+    public float GetHealthPercentage()
+    {
+        return _currentHealth / _maxHealth;
+    }
+
+    public bool IsFullHealth()
+    {
+        return _currentHealth >= _maxHealth;
     }
 }

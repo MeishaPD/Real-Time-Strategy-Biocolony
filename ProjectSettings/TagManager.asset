@@ -7,11 +7,12 @@ TagManager:
   - enemy
   - virus
   - Building
+  - Meat
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Obstacle
   - Water
   - UI
   - Building
